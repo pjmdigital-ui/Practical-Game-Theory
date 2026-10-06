@@ -24,7 +24,7 @@ By the end of this module you will be able to:
 2. **Distinguish** between what you intend a move to produce and what the move actually makes attractive for the other person.
 3. **Predict** a set of plausible responses to a planned move using the other person's goals, information, options, and constraints, rather than your own preferences.
 4. **Reason backward** from where a sequence is likely to end, and use that reasoning to test whether a threat or commitment is credible.
-5. **Map** a past or upcoming interaction as a sequence of interdependent decisions, identify the turning point, and spot escalation loops before they take over.
+5. **Map** an interaction as a sequence of interdependent decisions, find its turning point, and spot escalation loops.
 
 ## Lessons
 
@@ -60,7 +60,7 @@ By the end of this module you will be able to:
 - People aren't perfectly rational. They get emotional, miscalculate, and misread the game. Separate what someone would choose if optimizing from what they're actually likely to choose.
 - **Rationalizability** as a shortcut: don't waste energy predicting moves that make no strategic sense. If Choice A is worse for you than Choice B no matter what they do, eliminate A first.
 
-**Example to use:** A customer refuses your offer. Instead of "They're being unreasonable," ask what would make sense with their objectives and constraints. Maybe they don't trust the delivery date, have another supplier, fear looking foolish, need their boss's approval, don't see the value, or are testing your flexibility. You're now searching the game instead of judging the person.
+**Example to use:** A customer refuses your offer. Instead of "They're being unreasonable," ask what would make sense given their objectives and constraints. Maybe they distrust the delivery date, have another supplier, fear looking foolish, need their boss's approval, or are testing your flexibility. You're searching the game instead of judging the person.
 
 **On-screen takeaway:** > **Put their preferences into their position, not yours.**
 
@@ -72,7 +72,7 @@ By the end of this module you will be able to:
 - The Final Conversation: the same disagreement plays differently if it's your last conversation ever versus the start of twenty years working together. The best response to a move depends partly on what comes after it (more in Module 9).
 - Threats: "If you do that, I'm walking away" can't be judged by how forcefully it's said. Ask, "If I actually do that, will walking away be their best response?"
 
-**Example to use:** Run the negotiation from the chapter: you make an offer, they accept or reject, and if they reject you get one final response. Have learners decide that last move first, then ask what the other side will do knowing it, and only then choose the opening offer.
+**Example to use:** The chapter's negotiation: you offer, they accept or reject, and after a rejection you get one final response. Decide that last move first, then what they'll do knowing it, and only then choose the opening offer.
 
 **On-screen takeaway:** > **Judge a threat by the incentives at the moment it would be carried out.**
 
@@ -107,13 +107,13 @@ By the end of this module you will be able to:
 
 **1. People don't naturally look far ahead, but they can learn to.** Eric Johnson, Colin Camerer, Sankar Sen, and Talia Rymon studied a three-round sequential bargaining game. Under full backward induction, the first offer should have been about $1.25; an equal split would have been $2.50. Participants actually offered about $2.11 on average, and the information they chose to inspect before deciding showed limited look-ahead rather than full backward induction. When participants were explicitly trained in backward induction, they learned it quickly, and their offers to computerized opponents moved close to the theoretical prediction (about $1.22).
 
-*What it suggests:* "Then what?" isn't automatic for most of us, which is why it's worth practicing, and the skill appears to be teachable.
+*What it suggests:* "Then what?" isn't automatic, but it appears to be teachable.
 
 *What it does NOT prove:* That lab bargaining behavior mirrors everyday conversation, or that the "theoretical" offer is the wise move against real people (the trained offers were made to computer opponents). It also doesn't show that thinking further ahead always produces better outcomes.
 
 **2. People differ in how many steps ahead they think.** In level-k models, a level-1 thinker asks, "What will they probably do?"; a level-2 thinker asks, "What do they think I will do?" Dale Stahl and Paul Wilson's experiments found wide variety; in one, their estimates classified roughly 24% of participants as level-1, 49% as level-2, and 27% as Nash-type. Colin Camerer, Teck-Hua Ho, and Juin-Kuan Chong's cognitive hierarchy model (Quarterly Journal of Economics) fit an average depth of roughly 1.5 steps across the games they studied. Rosemarie Nagel's "beauty contest" guessing game (American Economic Review, 1995) showed that people's choices depend on their model of everyone else's reasoning, and that they rarely jump straight to the equilibrium answer.
 
-*What it suggests:* The rule isn't "think ten moves ahead." It's "think one or two responses ahead, calibrated to the actual person." If you assume someone is reasoning five layers deep when they just want to leave the meeting and eat lunch, you can outsmart yourself.
+*What it suggests:* The rule isn't "think ten moves ahead." It's "think one or two responses ahead, calibrated to the actual person." Assume five layers of reasoning in someone who just wants lunch, and you can outsmart yourself.
 
 *What it does NOT prove:* These figures come from specific games and participant pools; they are not universal facts about people or about anyone in your life. And McKelvey and Palfrey's centipede-game experiments add a warning: strict backward induction predicted play would stop immediately, yet participants usually continued for several rounds, which made more sense if they allowed for a chance the other player might be altruistic. Backward reasoning is only as good as the model of the other player feeding it.
 
@@ -169,15 +169,15 @@ Dana leads a five-person operations team at a logistics company. At her first te
 
 <details><summary>Model answer</summary>
 
-1. **Intention vs. incentive.** Dana intended to set a high standard. But her response raised the cost of disclosure: an angry reaction plus public embarrassment, witnessed by the whole team. Hiding or delaying bad news became the more attractive response. She didn't want concealment, but her move made it rational.
+1. **Intention vs. incentive.** Dana intended to set a high standard, but her response raised the cost of disclosure: anger plus public embarrassment, witnessed by everyone. She didn't want concealment, but her move made it rational.
 
 2. **The sequence.** Dana: "Tell me right away." → Marcus discloses. → Dana explodes and names him publicly. → The team learns disclosure is punished. → Next error: two people sit on it for a week. → The client finds out first. The turning point was Dana's response to the disclosure, the moment her stated rule and her actual behavior pointed in opposite directions.
 
-3. **Words vs. the game they enter.** Her team heard her perfectly. They responded to the game her words entered, and her own reaction rewrote that game. Today's response became tomorrow's incentive.
+3. **Words vs. the game they enter.** Her team heard her perfectly; they responded to the game, which her own reaction rewrote. Today's response became tomorrow's incentive.
 
 4. **Backward reasoning.** Desired behavior: early reporting. Required expectation: disclosure will be heard and worked through, not punished. Source of that expectation: Dana's observable responses to disclosure, especially the most recent, most public one. The question isn't "What phrase will make them open up?" but "What does my response pattern teach them to expect?"
 
-5. **Next move.** Dana could tell the team plainly that her reaction to Marcus made it harder to bring problems forward, then respond differently the next time bad news arrives: thank the person, focus on the fix, handle performance concerns privately. Likely responses: cautious skepticism (one statement won't outweigh one vivid example) or a small "test" disclosure. That test is the critical branch; her response to it is what actually changes the game. She should model → act → observe → update, and if reporting stays slow, ask what else (workload, peer dynamics) makes silence attractive. The goal isn't controlling the team; it's an honest environment in which reporting problems is a reasonable choice for them.
+5. **Next move.** Dana could tell the team plainly that her reaction made it harder to bring problems forward, then respond differently when bad news next arrives: thank the person, focus on the fix, handle performance concerns privately. Expect cautious skepticism or a small "test" disclosure. That test is the critical branch; her response to it is what changes the game. If reporting stays slow, she should update and ask what else makes silence attractive. The goal isn't controlling the team; it's an honest environment where reporting problems is a reasonable choice for them.
 
 </details>
 
@@ -207,7 +207,6 @@ Choose a live situation where you'll make an important move in the next week or 
 
 **Debrief (5 min):**
 - Was Jordan's Round 1 threat credible? How did Riley decide?
-- What did each player predict, and how did it compare with what happened?
 - Where did either player project their own preferences onto the other?
 - Did Jordan's Round 2 opening make the response Jordan wanted more attractive to Riley, or just state it more firmly?
 - Ethics check: did anyone make a threat they didn't believe? What might that cost in an ongoing relationship?

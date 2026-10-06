@@ -139,38 +139,55 @@ Use this map before any important interaction. It sits on top of your Game Map f
 **Players (from your Game Map):** ______________________________
 
 **1. What do I want?**
+
 What outcomes matter to me? (List more than one currency.)
+
 ______________________________
+
 ______________________________
 
 **2. What do they want?**
+
 What outcomes appear to matter to them? (Not what they should want, not what I'd want in their shoes, not only what they said.)
+
 ______________________________
+
 ______________________________
 
 **3. Where do our interests align?**
+
 What can we both gain?
+
 ______________________________
 
 **4. Where do they conflict?**
+
 What does one person gain at the other's expense?
+
 ______________________________
 
 **5. What are we each trying to avoid?**
+
 What losses or risks matter? (Me / Them)
+
 ______________________________
+
 ______________________________
 
 **6. What might I be missing?**
+
 Could status, identity, fairness, autonomy, or relationships matter here?
+
 ______________________________
 
 **7. Interest structure (circle one):** Mostly opposed · Mostly aligned · Mixed
 
 **The most important question: Am I assuming their payoff is the same as mine?**
+
 ______________________________
 
 **My next move, given this map (and one that respects their autonomy and informed choice):**
+
 ______________________________
 
 ## Practice exercises
