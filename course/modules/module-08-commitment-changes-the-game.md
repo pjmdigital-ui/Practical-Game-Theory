@@ -82,8 +82,8 @@ By the end of this module you will be able to:
 - A credible commitment can lock you into a terrible outcome. Two countries that each publicly commit ("If you cross this line, we retaliate" / "We will cross the line") may have removed every path to de-escalation.
 - Incompatible commitments create no deal. Evaluate a commitment not by how strongly it binds you, but by the game it creates.
 - The less you know about the future, the more flexibility is worth. Public commitment creates discipline and rigidity at the same time.
-- Commitment is not the sunk-cost fallacy (letting yesterday's irreversible cost distort today's decision), and it is not toughness. Refusing to adapt with no strategic benefit is just rigidity.
-- A commitment is itself a move. Think in responses: they may concede, walk away, commit back, look for alternatives, retaliate, or stop negotiating.
+- Commitment is not the sunk-cost fallacy, and it is not toughness. Refusing to adapt with no strategic benefit is just rigidity.
+- A commitment is itself a move: they may concede, walk away, commit back, or stop negotiating.
 - Ethics: deliberately creating a crisis so the other person "has no choice" can become coercive. Contracts, boundaries, transparent deadlines, and public promises help people coordinate and trust each other; destroying someone's meaningful ability to choose does not.
 
 **Example to use:** A business owner announces, "We will never raise our prices." Customers love it, and years later costs double. Or a manager declares that anyone who makes a certain mistake is automatically fired, and then the best employee makes an honest mistake under unusual circumstances. Now the manager must break the commitment or carry out a punishment that no longer makes sense.
@@ -101,7 +101,7 @@ By the end of this module you will be able to:
 | Observable commitment | A commitment the other player knows about or can credibly infer. Only these can change their present decision. |
 | Delegation | Transferring authority to someone whose choices are more restricted, turning "I don't want to" into a truthful "I can't." |
 | Boundary | "If this occurs, here is what I will do." A commitment that matters only when your behavior makes it credible. |
-| Commitment device | An arrangement that constrains the options available to your future self, such as a prepaid session or an alarm across the room. |
+| Commitment device | An arrangement that constrains your future self's options, such as a prepaid session. |
 | Sunk-cost fallacy | Letting yesterday's irreversible cost distort today's decision when that cost should no longer matter to the choice. |
 
 ## Research spotlight
@@ -209,9 +209,9 @@ Pick one live situation where you are about to state, or recently stated, a thre
 
 **Setup:** A freelance photographer (Player A) and an event planner (Player B) are negotiating the fee for a wedding shoot. Run it in three short rounds of three to four minutes each.
 
-**Private instructions, Player A (photographer):** You'd prefer \$3,000. You'd accept \$2,400. In Round 1, you have no real constraint. In Round 2, you have a genuine, verifiable constraint: you've been offered another booking on the same date at \$2,600, which you must confirm by tomorrow at noon. You may share it if you choose. In Round 3, decide on your own whether to make a firm "final" statement and whether to back it with anything.
+**Private instructions, Player A (photographer):** You'd prefer \$3,000 and would accept \$2,400. Round 1: no real constraint. Round 2: a genuine, verifiable constraint: another booking on the same date at \$2,600, which you must confirm by tomorrow at noon. Share it if you choose. Round 3: decide whether to make a firm "final" statement and whether to back it with anything.
 
-**Private instructions, Player B (planner):** Your client's budget is \$2,800, but you'd love to come in under it. In Round 1, test A's stated minimums. In Round 2, before reacting to any constraint A mentions, ask what actually binds it. In Round 3, you may make your own firm commitment, for example by truthfully saying your client has capped the budget at a set number.
+**Private instructions, Player B (planner):** Your client's budget is \$2,800, but you'd love to come in under it. Round 1: test A's stated minimums. Round 2: before reacting to any constraint, ask what actually binds it. Round 3: you may make your own firm commitment, such as truthfully stating your client's cap.
 
 **Rules:** No inventing constraints that don't exist on your instruction card. Truth, autonomy, dignity, and informed choice apply.
 
@@ -222,8 +222,8 @@ Pick one live situation where you are about to state, or recently stated, a thre
 
 ## Common mistakes
 
-- **Confusing severity with credibility** — A huge threat you won't carry out has less effect than a small one you will. Ask whether carrying it out will still make sense when the time comes, and use a consequence you can actually enforce.
-- **Threatening what you won't do** — Every unenforced threat teaches the other player that your words don't predict your behavior, and the next threat carries less information. If you're not prepared to follow through, don't create the threat.
+- **Confusing severity with credibility** — A huge threat you won't carry out does less than a small one you will. Use a consequence you can actually enforce.
+- **Threatening what you won't do** — Every unenforced threat teaches the other player that your words don't predict your behavior. If you won't follow through, don't create the threat.
 - **Keeping the commitment hidden** — A private constraint may shape your behavior, but it can't change their present decision unless they know about it or can credibly infer it.
 - **Believing every "my hands are tied"** — Sometimes it's true, and sometimes corporate is ten feet away. Ask what actually binds them.
 - **Judging a commitment by how strongly it binds you** — Two credible, incompatible commitments produce no deal, and under deep uncertainty flexibility may be worth more than credibility. Evaluate a commitment by the game it creates.
@@ -287,14 +287,9 @@ Pick one live situation where you are about to state, or recently stated, a thre
 
 ## Field assignment
 
-**This week: audit your commitments.** Each day, notice one threat, promise, deadline, boundary, or "final" position, either one you make or one someone makes to you. For each, record:
+**This week: audit your commitments.** Each day, notice one threat, promise, deadline, boundary, or "final" position, yours or someone else's. Record the exact words, whether it was an intention, promise, or strategic commitment, what actually bound it (or "words only"), and whether it was followed through.
 
-- The exact words.
-- Whether it was an intention, a promise, or a strategic commitment.
-- What actually bound it (or "words only").
-- Whether it was followed through, and what the other person seemed to learn.
-
-Then pick one boundary or consequence in your own life that you have stated but not enforced. Replace it with a smaller, clear consequence you will actually carry out, state it once calmly, and follow through the next time the condition occurs. Record what happens.
+Then pick one boundary or consequence you have stated but not enforced. Replace it with a smaller, clear consequence you will actually carry out, state it once calmly, and follow through the next time the condition occurs. Record what happens.
 
 **Debrief questions for next week:**
 1. How many of the "final" positions or "I can't" statements you heard were backed by something real? How could you tell?
