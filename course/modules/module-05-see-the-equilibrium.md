@@ -117,7 +117,7 @@ By the end of this module you will be able to:
 **2. Cooperation in repeated Prisoner's Dilemmas (Dal Bó and Fréchette, American Economic Review; and their later survey in the Journal of Economic Literature).**
 
 - *What was done:* Participants played indefinitely repeated Prisoner's Dilemma games with no known end. Theory says mutual cooperation can become sustainable in repeated play if players value the future enough.
-- *What was found:* Cooperation can emerge in repeated play, but the conditions are more demanding than the bare theoretical requirement. Their later survey concludes that cooperation is more likely when it can be supported in equilibrium, but being supportable is not enough. It also has to be robust to strategic uncertainty, meaning the risk that the other person won't go along.
+- *What was found:* Cooperation can emerge, but under conditions more demanding than the bare theoretical requirement. The survey concludes that being supportable in equilibrium is not enough; cooperation must also be robust to strategic uncertainty (the risk the other person won't go along).
 - *What it suggests for real conversations:* Knowing a better equilibrium exists doesn't mean people will find it. Two partners who both want openness may stay guarded because whoever opens up first absorbs the risk. The practical question: how do we move to a better pattern without one person carrying all the risk?
 - *What it does NOT prove:* These are lab games with defined payoffs, not marriages or teams. They don't tell you when your own relationship will shift, and they don't say cooperation is always right. Some competitive patterns exist for good reasons.
 
@@ -125,7 +125,7 @@ A note on honesty: that equilibria are mutual best responses, and can be bad for
 
 ## The tool: The Equilibrium Audit
 
-Use this when you find yourself stuck in a recurring interaction. Work through it in writing, at a calm moment, not in the middle of the argument.
+Use this when you're stuck in a recurring interaction. Work through it in writing, at a calm moment.
 
 **The situation (one line):** ______________________________
 
@@ -228,12 +228,12 @@ Choose a recurring interaction that frustrates you (the same argument, a standof
 
 ## Common mistakes
 
-- **Treating "stable" as "good" or "chosen."** A pattern that keeps happening doesn't mean anyone wants it. It may simply mean nobody sees a better unilateral move. Ask what keeps it stable, not who secretly prefers it.
-- **Hunting for the villain.** "Who's behaving badly?" often leaves the pattern intact. Ask, "What interaction is producing this pattern?" This doesn't erase responsibility; someone may well be at fault. It adds the question of what keeps the pattern going now.
+- **Treating "stable" as "good" or "chosen."** A repeating pattern may simply mean nobody sees a better unilateral move. Ask what keeps it stable, not who secretly prefers it.
+- **Hunting for the villain.** Ask, "What interaction is producing this pattern?" This doesn't erase responsibility; it adds the question of what keeps the pattern going now.
 - **Fixing the next sentence instead of the pattern.** If the loop is self-reinforcing, even a better line gets pulled back into it. Look at the system, not just the move.
 - **"Just change."** A one-sided change can make things worse at first if the other person reads it through the old pattern. Change something structural, especially expectations about what the other will do.
-- **Calling everything a Nash equilibrium.** Persistence can come from habit, coercion, inertia, institutional rules, or lack of awareness. Test whether changing alone would actually hurt the person. For everyday patterns, say you're using an equilibrium lens.
-- **Treating equilibrium as prediction.** Knowing the possible stable outcomes doesn't tell you which one people will land on, or that real people will behave exactly that way. Use it as a mental model, then model, act, observe, update.
+- **Calling everything a Nash equilibrium.** Persistence can come from habit, coercion, inertia, or rules. Test whether changing alone would actually hurt the person, and call it an equilibrium lens.
+- **Treating equilibrium as prediction.** It doesn't tell you which stable outcome people will reach or exactly what they'll do. Model, act, observe, update.
 
 ## Quiz
 
@@ -280,14 +280,14 @@ Choose a recurring interaction that frustrates you (the same argument, a standof
 
 <details><summary>Answer key</summary>
 
-1. **B** — Each player's strategy is a best response to the others', so no one has a reason to change alone. It says nothing about being best, fair, agreed on, or predicted.
+1. **B** — Mutual best responses, so no one gains by changing alone. Nothing about best, fair, agreed, or predicted.
 2. **C** — Stable doesn't mean good. A Nash equilibrium can be terrible for everyone, and it doesn't require any agreement.
-3. **B** — If the other cooperates, defecting pays more. If the other defects, defecting protects you. Both players understand cooperation would be better; the structure pushes them apart anyway.
-4. **C** — The chapter shifts the question from "Who's to blame?" and "What should I say?" to "What pattern are our responses creating?" Each sibling's behavior is a response to the other's.
-5. **B** — The chapter uses this exact case: "Just change" can be bad advice because a one-sided move can be misread and trigger escalation. Changing the structure, including expectations, matters more.
-6. **B** — A game can have several equilibria, and knowing them doesn't tell you which one people will select. Context, focal points, expectations, and communication come into play.
-7. **A** — Nobody wrote the rule. The new hire's behavior responds to expectations about how others will judge them, and it then reinforces the norm. That is the chapter's self-reinforcing, cultural equilibrium.
-8. **C** — Changing the payoffs changed cooperation rates, so structure matters. But many people cooperated, contrary to the simple money-only prediction, so equilibrium is a lens, not a crystal ball.
+3. **B** — Whatever the other does, defecting looks better. They know cooperation would be better; the structure pushes them apart anyway.
+4. **C** — Each sibling's behavior responds to the other's. The chapter shifts from blame and wording to the pattern.
+5. **B** — "Just change" can be bad advice: a one-sided move can be misread and trigger escalation.
+6. **B** — Knowing the equilibria doesn't tell you which one people select; context, focal points, and expectations come into play.
+7. **A** — Nobody wrote the rule. The new hire responds to expectations, then reinforces the norm: a cultural equilibrium.
+8. **C** — Payoffs changed cooperation rates, so structure matters, but many people cooperated against the money-only prediction.
 
 </details>
 

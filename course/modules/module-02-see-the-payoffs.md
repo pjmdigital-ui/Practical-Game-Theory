@@ -20,11 +20,11 @@ This module builds one mental shift. Instead of asking, "Why would they do that?
 
 By the end of this module you will be able to:
 
-1. Define a payoff in plain language and list the non-monetary currencies (status, fairness, autonomy, security, identity, relationships, and others) that can drive a decision.
-2. Distinguish opposed, aligned, and mixed interests in a real interaction, and identify which dimensions of a disagreement are conflicting and which are shared.
-3. Separate stated preferences from revealed preferences, and what happened from what each person thinks happened.
-4. Identify what each player is trying to avoid, not just what they are trying to gain, including how losses and reference points shape perceived payoffs.
-5. Complete a Payoff Map for an important interaction and use it to choose a move that respects the other person's autonomy and dignity.
+1. Define a payoff in plain language and name the non-monetary currencies that can drive a decision.
+2. Distinguish opposed, aligned, and mixed interests, and locate where a disagreement conflicts and where it aligns.
+3. Separate stated from revealed preferences, and what happened from what each person thinks happened.
+4. Identify what each player is trying to avoid, not just what they're trying to gain.
+5. Complete a Payoff Map and use it to choose a move that respects the other person's autonomy and dignity.
 
 ## Lessons
 
@@ -288,31 +288,25 @@ Pick a live situation where someone's behavior frustrates or puzzles you: a cowo
 
 <details><summary>Answer key</summary>
 
-1. **B** — A payoff is what makes an outcome better or worse for that player. It can be money, but also status, fairness, time, autonomy, and more. The dossier is explicit that it's a modeling concept, not a "hidden motive."
-2. **C** — Neither partner is necessarily irrational; they're optimizing for different things (growth versus security).
+1. **B** — A payoff is what makes an outcome better or worse for that player, money or otherwise.
+2. **C** — Neither is necessarily irrational; they optimize for growth versus security.
 3. **C** — Conflicting interests over price plus aligned interests over completing the transaction make it a mixed-interest game.
-4. **C** — The experiment teaches us about the actual payoff structure. If people consistently sacrifice money to punish perceived unfairness, fairness is part of the game. It doesn't make the model useless or prove money doesn't matter.
-5. **B** — Behavior gives information about what matters. This doesn't mean they're lying; people often don't fully know their preferences until they face a real choice.
-6. **B** — Same action, different interpretation, different perceived payoff. Strategic thinking separates what happened from what each person thinks happened.
-7. **C** — The people didn't necessarily change; the game did. Before trying to change behavior, understand what the environment rewards.
+4. **C** — If people consistently sacrifice money to punish perceived unfairness, fairness is part of the game. The model isn't useless; it learns the real payoffs.
+5. **B** — Choices reveal what matters. That doesn't mean they're lying; people often learn their preferences by facing a real choice.
+6. **B** — Same action, different perceived payoff.
+7. **C** — The people didn't change; the game did.
 8. **C** — The chapter rejects "push their hot button" as tactics, says understanding doesn't mean justifying, and warns against a "there's always a win-win" philosophy.
 
 </details>
 
 ## Field assignment
 
-This week, catch yourself in one "Why would they do that?" moment: a moment of resistance, disagreement, or unexpected behavior from someone at work or at home. Before you respond or judge, pause and complete a quick Payoff Map, even if it's only a few lines on your phone. Then, if it's appropriate, ask one honest, open question to test your map, such as "What would a good outcome look like for you here?" or "What are you most worried about?"
-
-Record:
-- The behavior you saw and your first interpretation of it.
-- The payoffs you guessed (gain and avoid) before the conversation.
-- What you learned from their answer or their next choice.
-- Whether the interests turned out to be opposed, aligned, or mixed.
+This week, catch yourself in one "Why would they do that?" moment at work or at home. Before you respond or judge, sketch a quick Payoff Map, even a few lines on your phone. Then, if appropriate, ask one honest, open question to test it, such as "What would a good outcome look like for you here?" or "What are you most worried about?" Record the behavior, your first interpretation, the payoffs you guessed (gain and avoid), and what you learned.
 
 **Debrief questions for next week:**
 1. Where was your first interpretation based on assuming their payoff was the same as yours?
-2. What payoff did you miss, and which category was it (status, fairness, autonomy, security, identity, relationship, something else)?
-3. Did understanding their payoffs change your next move, or did it confirm that your interests were genuinely opposed? What did you do with that knowledge?
+2. What payoff did you miss, and which currency was it?
+3. Did understanding their payoffs change your next move, or confirm that your interests were genuinely opposed?
 
 ## The question to carry
 

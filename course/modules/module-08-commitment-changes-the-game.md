@@ -106,13 +106,13 @@ By the end of this module you will be able to:
 
 ## Research spotlight
 
-**1. Schelling's commitment insight (theory).** Thomas Schelling made the paradox of commitment central to strategic thinking. The Nobel committee summarized one of his key insights this way: a bargaining player can sometimes strengthen its position by openly making its own alternatives worse. The committee's materials used the "burning its ships" image, and noted applications to strategic investment in capacity and to delegating decision power.
-- *What it suggests:* Before you ask how firm you sound, ask how your future options look to the other side. Changing those options can change their best response today.
-- *What it does NOT prove:* It does not say commitment always creates power, that you should never leave an escape route, or that the most extreme commitment wins. It's a structural insight, not a recommendation to bind yourself in every situation.
+**1. Schelling's commitment insight (theory).** The Nobel committee summarized one of Thomas Schelling's key insights this way: a bargaining player can sometimes strengthen its position by openly making its own alternatives worse. The committee's materials also noted applications to delegating decision power.
+- *What it suggests:* Ask how your future options look to the other side. Changing them can change their best response today.
+- *What it does NOT prove:* That commitment always creates power, that you should never leave an escape route, or that the most extreme commitment wins.
 
-**2. Commitment in the bargaining lab (Swope, Cadigan, and Schmitt).** In laboratory bargaining experiments where players could credibly commit to a bargaining position, Kurtis Swope, John Cadigan, and Pamela Schmitt found that commitment could increase the committer's payoff, particularly where other parties otherwise had incentives to hold out for better terms. But commitment could also increase the probability of bargaining failure and reduce overall efficiency. The same line of research notes that credible ultimatums can reduce uncertainty and remove incentives for strategic delay in some settings.
-- *What it suggests:* Commitment may strengthen your position while making agreement harder. Those are two sides of one mechanism: you gained power by eliminating flexibility, and flexibility was one of the things that might have made a deal possible.
-- *What it does NOT prove:* It doesn't show that commitment helps in every negotiation, or that a stated "final offer" works because it sounds firm. Lab results are about specific structured games.
+**2. Commitment in the bargaining lab (Swope, Cadigan, and Schmitt).** In laboratory bargaining experiments where players could credibly commit to a position, Kurtis Swope, John Cadigan, and Pamela Schmitt found that commitment could increase the committer's payoff, particularly where others had incentives to hold out for better terms. But it could also increase the probability of bargaining failure and reduce overall efficiency. The same research notes that credible ultimatums can reduce uncertainty and remove incentives for strategic delay in some settings.
+- *What it suggests:* Commitment may strengthen your position while making agreement harder: two sides of one mechanism.
+- *What it does NOT prove:* That commitment helps in every negotiation, or that a "final offer" works because it sounds firm. These are specific, structured lab games.
 
 **Also cited in the chapter.** A 2026 experiment on precommitment before sequential ultimatum bargaining found that people used commitment strategically but not exactly as theory predicts: commitments were often less aggressive, reciprocity and equal opportunity seemed to matter, and in later rounds of some conditions commitment produced very high efficiency. A field experiment by Emily Breza, Martin Kanz, and Leora Klapper found factory workers were more likely to open a commitment savings account when the employer would observe it, and managers were more willing to invest in workers who held one. These show, respectively, that humans don't use commitment exactly as the model predicts, and that observable commitments can affect how others respond to us.
 
@@ -172,7 +172,7 @@ Does it preserve truth, autonomy, dignity, and informed choice? ________________
 
 ### Exercise A — Analyze the scenario
 
-Dana runs a small design studio and is renewing a contract with her largest client. The client's procurement lead, Marcus, asks for a 15 percent price cut. Dana says, "Our rates are final; we can't go lower," then agrees to 5 percent off when Marcus pushes. A week later Marcus asks for another 5 percent, and Dana says this time she means it. Meanwhile, at home, Dana has told her teenage son three times this month that if he misses curfew again, he loses the car "for the rest of the year," and each time he kept the keys. Back at work, Dana is drafting a public post announcing that her studio will "never charge clients for revisions," hoping it will win new business. Her biggest project next quarter is an unfamiliar type of work with a scope that's hard to predict. Marcus has also mentioned that his own authority caps the budget at a specific number, and that anything above it goes to his CFO.
+Dana runs a small design studio and is renewing a contract with her largest client. The client's procurement lead, Marcus, asks for a 15 percent cut. Dana says, "Our rates are final; we can't go lower," then agrees to 5 percent off when he pushes. Now he wants another 5 percent, and Dana says this time she means it. Marcus mentions that his authority caps the budget at a set number and anything above it goes to his CFO. At home, Dana has told her teenage son three times this month that if he misses curfew again, he loses the car "for the rest of the year," and each time he kept the keys. She is also drafting a public post promising her studio will "never charge clients for revisions," though her biggest project next quarter has a scope that's hard to predict.
 
 1. Why does Dana's "we can't go lower" carry little weight with Marcus, and what would make a price position real?
 2. Analyze the curfew threat. Why isn't it working, and what would a more credible version look like?
@@ -218,10 +218,8 @@ Pick one live situation where you are about to state, or have recently stated, a
 
 **Debrief questions:**
 1. In Round 1, did A's "minimum" hold? What did B learn when it moved?
-2. In Round 2, did the observable deadline change B's best response? Did it reduce uncertainty or create pressure, or both?
-3. In Round 3, did two commitments ever collide and threaten an impasse? How close did you come to "no deal"?
-4. Which statements were "I can't" and which were "I don't want to"? How did the other person treat each?
-5. Where did fairness or reciprocity seem to shape the outcome, beyond what the strategic logic alone would predict?
+2. In Round 2, did the observable deadline change B's best response? Did it reduce uncertainty, create pressure, or both?
+3. In Round 3, did two commitments collide and threaten an impasse? Where did fairness or reciprocity shape the outcome?
 
 ## Common mistakes
 
