@@ -41,18 +41,18 @@ By the end of the course, learners will be able to:
 | **Part I** | **See the Structure Beneath the Conversation** | | |
 | 1 | [See the Game](modules/module-01-see-the-game.md) | Chapter 1 | The Game Map |
 | 2 | [See the Payoffs](modules/module-02-see-the-payoffs.md) | Chapter 2 | The Payoff Map |
-| 3 | [Think in Responses](modules/module-03-think-in-responses.md) | Chapter 3 | Response prediction |
-| 4 | [Manage Predictability](modules/module-04-manage-predictability.md) | Chapter 4 | Predictability audit |
+| 3 | [Think in Responses](modules/module-03-think-in-responses.md) | Chapter 3 | The Response Map |
+| 4 | [Manage Predictability](modules/module-04-manage-predictability.md) | Chapter 4 | The Predictability Audit |
 | 5 | [See the Equilibrium](modules/module-05-see-the-equilibrium.md) | Chapter 5 | The Equilibrium Audit |
 | **Part II** | **See What Isn't Obvious** | | |
-| 6 | [Map Information & Beliefs](modules/module-06-map-information-and-beliefs.md) | Chapter 6 | Information & belief map |
-| 7 | [Separate Words From Credibility](modules/module-07-separate-words-from-credibility.md) | Chapter 7 | Credibility check |
-| 8 | [Commitment Changes the Game](modules/module-08-commitment-changes-the-game.md) | Chapter 8 | Commitment test |
+| 6 | [Map Information & Beliefs](modules/module-06-map-information-and-beliefs.md) | Chapter 6 | The Information Map |
+| 7 | [Separate Words From Credibility](modules/module-07-separate-words-from-credibility.md) | Chapter 7 | The Credibility Test |
+| 8 | [Commitment Changes the Game](modules/module-08-commitment-changes-the-game.md) | Chapter 8 | The Commitment Test |
 | **Part III** | **Think Beyond the Moment** | | |
 | 9 | [The Shadow of the Future](modules/module-09-the-shadow-of-the-future.md) | Chapter 9 | The Repeated-Game Audit |
-| 10 | [Diagnose the Coordination Problem](modules/module-10-diagnose-the-coordination-problem.md) | Chapter 10 | Coordination diagnostic |
-| 11 | [Change the Game](modules/module-11-change-the-game.md) | Chapter 11 | Game redesign worksheet |
-| 12 | [Strategic Judgment + Capstone](modules/module-12-strategic-judgment.md) | Conclusion | The Eleven Questions + capstone project |
+| 10 | [Diagnose the Coordination Problem](modules/module-10-diagnose-the-coordination-problem.md) | Chapter 10 | The Coordination Diagnostic |
+| 11 | [Change the Game](modules/module-11-change-the-game.md) | Chapter 11 | The Game-Change Audit |
+| 12 | [Strategic Judgment + Capstone](modules/module-12-strategic-judgment.md) | Conclusion | The Strategic Judgment Worksheet + capstone project |
 
 ## What every module contains
 

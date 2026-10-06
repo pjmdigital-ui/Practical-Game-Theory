@@ -49,7 +49,7 @@ By the end of this module you will be able to:
 - A commitment usually has to be observable to affect the other player.
 - Commitment devices work against your future self: the alarm across the room, the prepaid session, the tempting food removed from the house.
 
-**Example to use:** "I'm definitely waking up at 5:00" is intention. "I promise I'll meet you at the gym at 5:30" is a promise. Arranging for your training partner to pick you up at 5:15, with a prepaid session you lose if you skip, changes the payoff of getting out of bed. You didn't become more motivated; you changed the game your future self will face.
+**Example to use:** "I'm definitely waking up at 5:00" is intention. "I promise I'll meet you at the gym at 5:30" is a promise. Arranging for your training partner to pick you up at 5:15, with a prepaid session you lose if you skip, changes the game your future self will face.
 
 **On-screen takeaway:** > **A hidden commitment constrains you. An observable commitment can constrain you and change them.**
 
@@ -114,7 +114,7 @@ By the end of this module you will be able to:
 - *What it suggests:* Commitment may strengthen your position while making agreement harder: two sides of one mechanism.
 - *What it does NOT prove:* That commitment helps in every negotiation, or that a "final offer" works because it sounds firm. These are specific, structured lab games.
 
-**Also cited in the chapter.** A 2026 experiment on precommitment before sequential ultimatum bargaining found that people used commitment strategically but not exactly as theory predicts: commitments were often less aggressive, reciprocity and equal opportunity seemed to matter, and in later rounds of some conditions commitment produced very high efficiency. A field experiment by Emily Breza, Martin Kanz, and Leora Klapper found factory workers were more likely to open a commitment savings account when the employer would observe it, and managers were more willing to invest in workers who held one. These show, respectively, that humans don't use commitment exactly as the model predicts, and that observable commitments can affect how others respond to us.
+**Also cited in the chapter.** A 2026 experiment on precommitment before sequential ultimatum bargaining found people used commitment strategically but less aggressively than theory predicts, with reciprocity and equal opportunity apparently mattering. A field experiment by Emily Breza, Martin Kanz, and Leora Klapper found factory workers were more likely to open a commitment savings account when the employer would observe it, and managers were more willing to invest in workers who held one. Neither shows that people use commitment exactly as the model predicts.
 
 **Bottom line from the book:** The evidence does not support "commit harder and you'll win." It supports this: changing your future options can change another player's current incentives, but commitment creates tradeoffs between credibility, bargaining power, flexibility, and the possibility of agreement.
 
@@ -274,14 +274,14 @@ Pick one live situation where you are about to state, or recently stated, a thre
 
 <details><summary>Answer key</summary>
 
-1. **C** — Only C changes the payoff your future self will face. A is an intention, B is a promise, and D is a sincere feeling that changes nothing about the game.
+1. **C** — Only C changes the payoff your future self will face. A and D are intentions; B is a promise.
 2. **B** — The Nobel committee summarized Schelling's insight as strengthening your position by openly making your own alternatives worse. It does not claim extreme commitment always wins.
 3. **B** — Severity is not credibility. The question is whether carrying out the threat will still make sense when the time comes.
-4. **B** — A claimed constraint is only useful if it's credible. Ask what actually binds them: contract, rule, third-party authority, legal restriction, public commitment, financial or reputational cost, irreversible investment, or merely words.
+4. **B** — A claimed constraint is only useful if it's credible. Ask whether anything real binds them, or merely words.
 5. **B** — A hidden commitment constrains you; an observable commitment can constrain you and change them.
 6. **A** — Commitment could raise the committer's payoff, but it could also make bargaining failure more likely and reduce efficiency. Those are two sides of the same mechanism.
 7. **C** — Strategic commitment deliberately uses today's action to change tomorrow's incentives. The sunk-cost fallacy lets an unrecoverable past cost distort today's decision.
-8. **C** — A boundary is "If this occurs, here is what I will do," and it becomes meaningful only when your future behavior makes it credible. A more dramatic threat you won't keep would make things worse.
+8. **C** — A boundary becomes meaningful only when your behavior makes it credible. A more dramatic threat you won't keep would make things worse.
 
 </details>
 
