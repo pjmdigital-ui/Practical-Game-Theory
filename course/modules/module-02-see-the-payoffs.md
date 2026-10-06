@@ -31,11 +31,10 @@ By the end of this module you will be able to:
 ### Lesson 2.1 — What is a payoff? (~10 min)
 
 **Teaching points**
-- In game theory, a player's payoff is what they value about an outcome. Economists use numbers to compare outcomes, but you don't need numbers to use the concept. The working definition: *What makes this outcome better or worse for this player?*
+- In game theory, a player's payoff is what they value about an outcome. The working definition: *What makes this outcome better or worse for this player?*
 - Money is one currency among many: time, security, status, freedom, fairness, reputation, control, relationships, avoiding embarrassment, reducing risk, protecting one's identity.
 - Sometimes the payoff is what the outcome represents. A person may fight over $500 because of what conceding it means: respect, principle, or not being taken advantage of.
 - The most important question: *What are they actually trying to get out of this?* Not what you think they should want, not what you'd want in their shoes, and not even necessarily what they said they want.
-- People don't make decisions based on what would make *you* happy. They make decisions based on what they value.
 
 **Example to use:** The raise you didn't get. You want more money and assume your boss wants to save money. But your boss may also want to retain good people, stay within budget, avoid an expensive precedent, keep the team happy, and avoid explaining the raise upstairs. Your boss may even *want* to give you the raise but believe they can't afford it. The game shifts from "they don't want to pay me" to "We both want me to stay, but we have different constraints about how compensation is structured."
 
@@ -44,7 +43,6 @@ By the end of this module you will be able to:
 ### Lesson 2.2 — Opposed, aligned, and mixed interests (~10 min)
 
 **Teaching points**
-- Interests have different structures. Sometimes they're strongly opposed, sometimes largely aligned, and very often mixed.
 - **Opposed interests:** what benefits me hurts you. Zero-sum games like chess are the strong form, and they're rarer in everyday relationships than we imagine.
 - **Aligned interests:** we both benefit from the same outcome. The problem is often coordination, not conflict: "How do we get our actions aligned?"
 - **Mixed interests:** where most of human life happens. We both want the deal, company, or relationship to succeed, but disagree about how.
@@ -77,7 +75,6 @@ By the end of this module you will be able to:
 - Kahneman and Tversky's prospect theory: choices often depend on gains and losses relative to a reference point, and losses can weigh more than equivalent gains in many contexts (not always).
 - Perception is part of the game. The same deal can read as "I'm getting $10,000" or "I'm losing $5,000 compared with what I expected." Distinguish what happened from what each person thinks happened.
 - Stated versus revealed preferences: choices give you information beyond words. That doesn't mean people are lying; they often don't know their preferences until they face a real choice.
-- The payoff isn't always immediate. People take short-term losses to protect reputation or relationships.
 - The payoff can change. Switch from individual bonuses to a team bonus and the people don't change; the game does. Before trying to change behavior, understand what the environment rewards.
 
 **Example to use:** A manager gives two employees more responsibility. Employee A thinks, "They trust me." Employee B thinks, "They're dumping more work on me." Same action, different perceived payoff, different likely response.
@@ -89,7 +86,7 @@ By the end of this module you will be able to:
 **Teaching points**
 - The Payoff Map adds a second layer to the game map from Module 1: what I want, what they want, where we align, where we conflict, what we're each trying to avoid, and what I might be missing.
 - The most important question on the map: *Am I assuming their payoff is the same as mine?*
-- Before asking "How do I convince them?" ask "What payoff are they protecting?" It might be money, time, status, control, security, identity, fairness, reputation, autonomy, or a relationship.
+- Before asking "How do I convince them?" ask "What payoff are they protecting?"
 - Knowing what someone values tells you what they'll likely respond to, resist, or see as a threat. That is not license to "find their hot button and push it." That's tactics.
 - The map may help you persuade, negotiate, or cooperate, or tell you agreement isn't possible, or that you're solving the wrong problem.
 
@@ -250,7 +247,7 @@ Pick a live situation where someone's behavior frustrates or puzzles you: a cowo
    - B) What makes an outcome better or worse for a particular player
    - C) A hidden psychological motive that people try to conceal
    - D) The reward you offer someone to change their behavior
-2. Two business partners disagree about reinvesting 80% of profits versus distributing them. One prioritizes long-term growth, the other financial security. What is the best description of the situation?
+2. Two business partners disagree about reinvesting versus distributing profits. One prioritizes growth, the other security. What best describes this?
    - A) One partner is being irrational
    - B) It's purely a disagreement about money
    - C) They are optimizing for different things
@@ -260,7 +257,7 @@ Pick a live situation where someone's behavior frustrates or puzzles you: a cowo
    - B) Aligned interests
    - C) Mixed interests
    - D) A coordination problem only
-4. In the Ultimatum Game, responders frequently reject offers they see as unfair even though rejection leaves them with nothing. What is the chapter's lesson from this?
+4. In the Ultimatum Game, responders often reject offers they see as unfair, leaving both with nothing. What is the chapter's lesson?
    - A) The mathematical model is useless
    - B) People don't care about money
    - C) Fairness can be part of the actual payoff structure
@@ -270,12 +267,12 @@ Pick a live situation where someone's behavior frustrates or puzzles you: a cowo
    - B) Their behavior reveals that price may not be their only concern
    - C) Delivery time is irrelevant to the game
    - D) You should ignore what people say entirely
-6. A manager hands two employees the same new responsibility. One feels trusted; the other feels dumped on. Which distinction does this illustrate?
+6. Two employees get the same new responsibility. One feels trusted; the other feels dumped on. Which distinction does this illustrate?
    - A) Stated versus revealed preferences
    - B) What happened versus what each person thinks happened
    - C) Zero-sum versus positive-sum games
    - D) Short-term versus long-term payoffs
-7. A company changes from individual bonuses to a team bonus, and two rival employees start helping each other. What does the chapter say changed?
+7. A company switches from individual bonuses to a team bonus, and two rivals start helping each other. What changed?
    - A) The people's character
    - B) Nothing; they were always cooperative
    - C) The game and its incentives

@@ -196,13 +196,12 @@ Dana runs a small design studio and is renewing a contract with her largest clie
 
 ### Exercise B — Your own game
 
-Pick one live situation where you are about to state, or have recently stated, a firm position: a threat, promise, deadline, boundary, or "final" offer. It might be a negotiation, a rule with your kids, a boundary with a relative, or a public goal at work.
+Pick one live situation where you are about to state, or recently stated, a threat, promise, deadline, boundary, or "final" offer: a negotiation, a rule with your kids, a boundary with a relative, a public goal at work.
 
-1. Write the statement exactly as you said it, or would say it.
-2. Classify it: intention, promise, or strategic commitment.
-3. Work through all seven parts of the Commitment Test.
-4. Rewrite the statement so it is (a) something you will actually enforce, (b) observable to the other person, and (c) flexible enough to survive the most likely change in circumstances.
-5. Now flip it. Think of a "final" position or "I have no choice" someone recently gave you. List what actually binds them. If the honest answer is "nothing except that they said so," what would you do differently?
+1. Write the statement exactly and classify it: intention, promise, or strategic commitment.
+2. Work through all seven parts of the Commitment Test.
+3. Rewrite the statement so it is something you will actually enforce, observable to the other person, and flexible enough to survive the most likely change in circumstances.
+4. Flip it: take a "final" position or "I have no choice" someone recently gave you. What actually binds them? If the answer is "nothing except that they said so," what would you do differently?
 
 ### Exercise C — Partner drill / role-play
 

@@ -45,8 +45,8 @@ By the end of this module you will be able to:
 **Teaching points**
 - Chapter 3 asked, "What will they do after I move?" This chapter asks something deeper: "What pattern are our responses creating?"
 - One interaction looks like "I push, you resist." Repeated, it becomes "I push, you resist, I push harder, you resist harder." Now you're looking at a system, and systems develop stable patterns.
-- Equilibrium traps are everywhere: two companies that keep cutting prices because each fears being undercut; two coworkers who both work unsustainable hours because each fears the other will take advantage if they stop.
-- In relationships, the complaint is a response to withdrawal and the withdrawal is a response to complaint. Neither behavior makes sense in isolation. The loop is self-reinforcing, which doesn't make it healthy.
+- Equilibrium traps are everywhere: rival companies cutting prices because each fears being undercut; coworkers working unsustainable hours because each fears being taken advantage of.
+- In relationships, complaint responds to withdrawal and withdrawal responds to complaint. The loop is self-reinforcing, which doesn't make it healthy.
 - Most communication advice asks, "What should I say differently?" Game theory adds: "What equilibrium have we created?"
 
 **Example to use:** The "Can you help me with this?" loop from the chapter. You ask; they're too busy; "You're always too busy"; "Because you always ask at the last minute"; "Because you never tell me when you're available"; "Because you don't plan ahead." Skip who's right and name the pattern: you ask late, they refuse, you criticize, they defend, you feel unsupported, you ask late again. The interaction itself is producing the outcome.
@@ -56,9 +56,9 @@ By the end of this module you will be able to:
 ### Lesson 5.3 — Unwritten, Self-Reinforcing, and Sometimes Invisible (8 min)
 
 **Teaching points**
-- An agreement is something people explicitly decide. An equilibrium doesn't require an agreement at all. Many of the strongest social patterns are unwritten: who speaks first, who pays, who apologizes, who gives in, who gets the last word.
-- Once a pattern develops, everyone's expectations adjust to it, which makes it harder to change. People don't merely respond to incentives. They respond to expectations about what other people will do.
-- Some equilibria are invisible. Everyone privately complains that meetings are too long, yet every meeting lasts two hours, because nobody wants to be the one who says, "I'm leaving after 30 minutes."
+- An equilibrium doesn't require an agreement. Many of the strongest social patterns are unwritten: who speaks first, who pays, who apologizes, who gives in, who gets the last word.
+- Once a pattern develops, expectations adjust to it. People respond not only to incentives but to expectations about what others will do.
+- Some equilibria are invisible: everyone hates the two-hour meeting, but nobody wants to be the one who says, "I'm leaving after 30 minutes."
 - Repetition turns a pattern into a habit. After enough rounds, "We need to talk" triggers "Here comes another criticism" before anything is said. Nobody chooses the pattern anymore; they've learned it. The game starts playing you.
 
 **Example to use:** The new employee in a company where everyone stays late. At first: "Why is everyone still here?" After a few weeks: "I guess this is normal." After a few months: "If I leave at five, people will think I'm not committed." Now their own behavior reinforces the very norm they first questioned. The equilibrium has become cultural.
@@ -99,7 +99,6 @@ By the end of this module you will be able to:
 | Prisoner's Dilemma | The classic game where each player's best response is to defect, so both defect, even though both would prefer mutual cooperation. |
 | Equilibrium trap | A stable pattern that the people inside it dislike but that no one sees a good way to leave alone. |
 | Self-reinforcing pattern | A loop in which each person's response provokes the response that sustains it, such as complaining and withdrawing. |
-| Multiple equilibria | When the same game supports more than one stable pattern. |
 | Coordination problem | The challenge of getting everyone to the same equilibrium when several are possible. |
 | Focal point | Something that stands out and helps people coordinate their expectations without explicit communication, such as noon at Grand Central. |
 | Equilibrium-selection problem | Knowing the possible stable outcomes without knowing which one people will land on. |
@@ -173,7 +172,7 @@ My first experiment: ______________________________
 
 ### Exercise A — Analyze the scenario
 
-Priya and Marcus co-lead a product team. Every Friday, Priya sends Marcus a long status email flagging risks she sees in his part of the project. Marcus has started replying with a short "Noted, thanks" and handling the issues on his own without updating her. Because she hears nothing, Priya assumes the risks aren't being handled, so the next Friday's email is longer and copies their director. Marcus reads the cc as Priya trying to make him look bad, so he shares even less and starts sending his own updates straight to the director. Both privately tell colleagues they'd like a real partnership. Both say the other one started it. Last month Marcus tried skipping his separate update to the director "to be the bigger person," and the director asked him in a meeting why he'd gone quiet, which embarrassed him.
+Priya and Marcus co-lead a product team. Every Friday, Priya sends Marcus a long status email flagging risks she sees in his part of the project. Marcus has started replying with a short "Noted, thanks" and handling the issues on his own without updating her. Because she hears nothing, Priya assumes the risks aren't being handled, so the next Friday's email is longer and copies their director. Marcus reads the cc as Priya trying to make him look bad, so he shares even less and starts sending his own updates straight to the director. Both say they want a real partnership, and both say the other started it. Last month Marcus tried skipping his separate update to the director "to be the bigger person," and the director asked him in a meeting why he'd gone quiet, which embarrassed him.
 
 1. Describe the pattern as a loop of mutual responses.
 2. Why does each person's current behavior make sense given the other's?

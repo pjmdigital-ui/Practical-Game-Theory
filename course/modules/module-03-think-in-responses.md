@@ -12,9 +12,9 @@
 
 In Module 1 you learned to see the game. In Module 2 you learned to see the payoffs. This module is about the idea that sits at the heart of the whole book: **your move is only half of the move.** The other half is what the other person does in response, and their response depends, at least partly, on what you did.
 
-Most of us think about communication as a straight line: I say something, they hear it, and there is an outcome. Real interaction is a chain. I act, they respond, I respond to their response, they respond to mine. When we forget that, we judge our moves by how they feel to make ("that comment was honest," "that threat was strong") instead of by what they cause. We confuse **intention** with **incentive**.
+Most of us treat communication as a straight line: I say something, they hear it, outcome. Real interaction is a chain: I act, they respond, I respond to their response. When we forget that, we judge our moves by how they feel to make ("I was just being honest") instead of by what they cause. We confuse **intention** with **incentive**.
 
-The mental shift is simple to say and hard to practice. Before an important move, stop asking only "What should I say?" and start asking "What is this likely to make them do?", then "If they do that, what will I do?", and, when the stakes are high, "Where does that sequence lead?" Once another person is involved, your move does not end when you stop talking. Your move becomes their situation.
+The shift is simple to say and hard to practice. Before an important move, don't stop at "What should I say?" Ask what it's likely to make them do, what you'll do then, and, when stakes are high, where the sequence leads. Once another person is involved, your move doesn't end when you stop talking. Your move becomes their situation.
 
 ## Learning objectives
 
@@ -119,11 +119,11 @@ By the end of this module you will be able to:
 
 ## The tool: The Response Map
 
-Use this before an important conversation, or after one that went sideways. Part 1 comes straight from the chapter's practical exercise; Part 2 turns the chapter's questions into a pre-move check.
+Part 1 is the chapter's practical exercise for an interaction that went sideways. Part 2 turns the chapter's questions into a pre-move check.
 
 **Part 1 — Rewind a past interaction**
 
-Pick a recent interaction that didn't go the way you wanted. Don't judge who was right yet. Just write the sequence.
+Pick a recent interaction that didn't go the way you wanted. Don't judge who was right yet; just write the sequence.
 
 1. What did I do? ______________________________
 2. What did they do? ______________________________
@@ -133,7 +133,6 @@ Pick a recent interaction that didn't go the way you wanted. Don't judge who was
 
 - At which point did the interaction change direction? ______________________________
 - What could I have predicted about their response before making my move? ______________________________
-- Was there a point where both of us were responding understandably, yet things got worse? ______________________________
 
 **Part 2 — Map an upcoming move**
 
@@ -144,18 +143,17 @@ Pick a recent interaction that didn't go the way you wanted. Don't judge who was
    - What they know (and don't): ______________________________
    - Their options: ______________________________
    - Their constraints (boss, money, time, reputation, emotions): ______________________________
-4. **What does this move make them want to do?** List several plausible responses, not one, and a rough sense of how likely each seems:
+4. **What does this move make them want to do?** Several plausible responses, each marked:
    - Response A: ______________________________ (likely / possible / unlikely)
    - Response B: ______________________________ (likely / possible / unlikely)
    - Response C: ______________________________ (likely / possible / unlikely)
 5. **Intention check:** Does my move actually make the response I want more attractive than their alternatives? ______________________________
 6. **If they do that, what will I do?** (One line per response above.) ______________________________
 7. **Where does the sequence lead?** (High stakes only.) ______________________________
-8. **Eliminate:** Is there any option I already know I shouldn't take regardless of what they do? ______________________________
-9. **Threat check** (if a threat is involved, theirs or mine): When the moment comes, would carrying it out actually be the best response? ______________________________
-10. **Pattern check:** What pattern will this move create if it repeats? ______________________________
-11. **Relevance filter:** Which response could materially change the outcome? Ignore the rest. ______________________________
-12. **After the conversation — update:** What did they actually do? Where was my prediction off, and what did I misunderstand about the game? ______________________________
+8. **Eliminate:** Is any option worse for me regardless of what they do? ______________________________
+9. **Threat check:** If a threat is involved (theirs or mine), would carrying it out be the best response when the moment comes? ______________________________
+10. **Pattern and relevance:** What pattern will this move create? Which response could materially change the outcome? ______________________________
+11. **Afterward — update:** What did they actually do? Where was my prediction off, and what did I misunderstand about the game? ______________________________
 
 ## Practice exercises
 
@@ -192,7 +190,7 @@ Choose a live situation where you'll make an important move in the next week or 
 3. For the most likely response, write what you'll do, then what they'll likely do next. Stop there unless the stakes are high.
 4. Intention check: does your move make the response you want genuinely more attractive to them? If not, what change (timing, setting, framing, what you offer or ask) would?
 5. Elimination check: cross off any option that's worse for you no matter how they respond.
-6. Afterward, complete step 12 and write one sentence on what you misunderstood about the game, if anything.
+6. Afterward, complete step 11 and write one sentence on what you misunderstood about the game, if anything.
 
 ### Exercise C — Partner drill / role-play
 
@@ -290,17 +288,17 @@ Choose a live situation where you'll make an important move in the next week or 
 
 ## Field assignment
 
-**This week, run "Then what?" before three moves that matter.** Pick three moments where you're about to say something important: a request, a reply to a frustrating message, a piece of feedback, a "no." Before each one, take 60 seconds and write:
+**This week, run "Then what?" before three moves that matter** (a request, a reply to a frustrating message, feedback, a "no"). Before each, take 60 seconds to write:
 
 - My move:
 - What I want them to do:
 - Their two or three most plausible responses (with likely / possible / unlikely):
 - If they do the most likely thing, what will I do?
 
-After each interaction, record what they actually did and whether your prediction was right, partly right, or wrong. Also, once this week, notice a feedback loop in progress (in a meeting, at home, online). Note who moved, how the other person seemed to interpret it, and whether it was escalating or settling.
+Afterward, record what they actually did and whether your prediction was right, partly right, or wrong. Once this week, also notice a feedback loop in progress and note whether it was escalating or settling.
 
 **Debrief questions for next week:**
-1. How often did the response you predicted match the response you got? When it didn't, what had you misunderstood about their goals, information, options, or constraints?
+1. How often did your prediction match the response? When it didn't, what had you misunderstood about the game?
 2. Did asking "Then what?" change any move before you made it? What did you change, and what happened?
 3. In the feedback loop you observed, where could one well-chosen response have changed the direction of the sequence?
 

@@ -93,13 +93,13 @@ By the end of this module you will be able to:
 |---|---|
 | Game | A situation in which the outcome depends, at least partly, on the decisions of multiple people. It can be cooperative, competitive, or mixed. |
 | Player | Any decision-maker in the interaction who can affect the outcome, including people who aren't in the room. |
-| Mixed interests | Interests that are neither fully aligned nor fully opposed, such as business partners who both want the company to succeed but disagree about pay or reinvestment. |
+| Mixed interests | Interests that are neither fully aligned nor fully opposed. |
 | Available actions (strategies) | What each player can actually do, as distinct from what they want to do. |
 | Constraint | Anything that limits a player's choices, such as a policy, budget, approval requirement, or veto. A stated constraint and a real constraint aren't always the same. |
 | Outside option / alternative | What happens to each player if the interaction produces no agreement. |
 | Dependence | Who needs whom, and who has alternatives. Power often comes from this structure rather than from personality. |
-| Simultaneous vs. sequential game | Whether players choose without seeing each other's moves, or one moves first and the other responds after observing it. |
-| Game behind the conversation | The strategic structure that may lie beneath the stated topic, such as recognition, trust, status, credit, or precedent. |
+| Simultaneous vs. sequential game | Choosing without seeing the other's move, versus one moving first and the other responding. |
+| Game behind the conversation | The structure beneath the stated topic, such as trust, status, credit, or precedent. |
 | Person problem vs. game problem | Blaming behavior on someone's character, versus recognizing that the structure of the interaction may be producing it. |
 | Game Map | The chapter's nine-question perception tool: WHO, WHAT, OPTIONS, CONSTRAINTS, INFORMATION, TIMING, ALTERNATIVES, DEPENDENCIES, THEN WHAT. |
 
@@ -219,13 +219,13 @@ Pick a live situation you've been thinking about mostly in terms of *what to say
 
 **Setup (both see this):** The Manager has just sent the Employee a text: *"We need to talk about your performance."* The meeting starts in five minutes.
 
-**Employee's private brief:** You have no idea what this is about. You recently got an informal offer from another company that you haven't mentioned. You finished a major project last month but think it went unnoticed.
+**Employee's private brief:** You don't know what this is about. You have an unmentioned informal offer from another company, and you think your major project last month went unnoticed.
 
-**Manager's private brief:** You chose those words in a hurry. Your real goal is to ask the Employee to take over a struggling project because you think they're your strongest performer. Your own director is pressing you to fix that project this quarter, and you can't offer a raise until the next budget cycle.
+**Manager's private brief:** You wrote that text in a hurry. You actually want your strongest performer, the Employee, to take over a struggling project. Your director is pressing you to fix it this quarter, and you can't offer a raise until the next budget cycle.
 
-**Round 1 (3 minutes):** The Employee takes 3 minutes to fill out a Game Map from their own position, noting what they know, what they don't, and what they assume. The Manager does the same.
+**Round 1 (3 minutes):** Each player fills out a quick Game Map from their own position, noting what they know, don't know, and assume.
 
-**Round 2 (5 minutes):** Hold the conversation. The Employee's job is to understand the game before defending themselves: ask questions, learn what the Manager wants, and find out who else is involved. Neither player should reveal anything their character wouldn't reasonably reveal.
+**Round 2 (5 minutes):** Hold the conversation. The Employee's job is to understand the game before defending themselves: ask what the Manager wants and who else is involved.
 
 **Round 3 (5 minutes), debrief:**
 - Employee: How much of your map was wrong? What did you assume from the wording of the text?
@@ -313,7 +313,7 @@ If time allows, switch roles and rerun it with the Manager stating the real purp
 
 **This week: map one conversation before you have it.**
 
-Choose one meaningful interaction coming up this week, such as a request, a negotiation, a difficult talk, or a family decision. Before it happens, spend 10 minutes on a Game Map. Don't write a script. Write down your best guesses for each of the nine questions, and mark which answers are assumptions rather than facts.
+Choose one meaningful interaction coming up this week. Before it happens, spend 10 minutes on a Game Map instead of a script, and mark which answers are assumptions rather than facts.
 
 During and after the conversation, observe and record:
 - Any player who turned out to matter that you hadn't listed
@@ -323,7 +323,7 @@ During and after the conversation, observe and record:
 
 **Debrief questions for next week:**
 1. What did you notice about the situation that you would have missed if you'd only prepared what to say?
-2. Which of your assumptions was most wrong, and what did you learn about the other person's position that made their behavior more reasonable?
+2. Which assumption was most wrong, and what made the other person's behavior more reasonable from their position?
 3. Was the main obstacle a person problem or a game problem, and what would change the game next time?
 
 ## The question to carry
