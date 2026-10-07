@@ -1,0 +1,31 @@
+{
+  "v": 4,
+  "createdOnFiles": {"v": 1, "at": "2026-10-07T12:00:00Z"},
+  "lists": "css",
+  "title": "Internomics — Module 12: Strategic Judgment",
+  "order": ["cover", "why", "objectives",
+            "l1", "l1-steps", "l1-prompts", "l1-example", "l1-take",
+            "l2", "l2-offer", "l2-when", "l2-suspicion", "l2-example", "l2-take",
+            "l3", "l3-wrong", "l3-loop", "l3-surprise", "l3-example", "l3-take",
+            "l4", "l4-facts", "l4-example", "l4-take",
+            "l5", "l5-work", "l5-moves", "l5-example", "l5-take",
+            "eleven-1", "eleven-2", "terms", "research",
+            "tool", "practice", "practice-answer", "mistakes", "field",
+            "capstone", "capstone-rubric", "carry", "thanks"],
+  "sections": {
+    "intro": {"description": "Welcome to the final module: why strategic judgment sits above the eleven models.", "start": "cover"},
+    "lesson1": {"description": "Lesson 12.1: recognition, not recitation.", "start": "l1"},
+    "lesson2": {"description": "Lesson 12.2: choosing the right lens, and knowing when to put it down.", "start": "l2"},
+    "lesson3": {"description": "Lesson 12.3: your model is provisional, and the learning loop that updates it.", "start": "l3"},
+    "lesson4": {"description": "Lesson 12.4: facts, stories, and holding multiple hypotheses.", "start": "l4"},
+    "lesson5": {"description": "Lesson 12.5: Should I do it? Ethics, vulnerability and walking away.", "start": "l5"},
+    "review": {"description": "The eleven questions, the key terms of this module and the research behind it.", "start": "eleven-1"},
+    "practice": {"description": "The worksheet, the practice exercise, common mistakes and this week's assignment.", "start": "tool"},
+    "capstone": {"description": "The Capstone project, its rubric, the question to carry and the close of the course.", "start": "capstone"}
+  },
+  "faces": {
+    "inter": {"family": "Inter", "href": "https://fonts.googleapis.com/css2?family=Inter:wght@400..800&display=swap"},
+    "source-serif-4": {"family": "Source Serif 4", "href": "https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@400..700&display=swap"}
+  },
+  "designSystems": []
+}

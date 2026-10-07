@@ -1,0 +1,27 @@
+{
+  "v": 4,
+  "createdOnFiles": {"v": 1, "at": "2026-10-07T12:00:00Z"},
+  "lists": "css",
+  "title": "Internomics — Module 3: Think in Responses",
+  "order": ["cover", "why", "objectives",
+            "l1", "l1-chain", "l1-best", "l1-example", "l1-take",
+            "l2", "l2-want", "l2-intend", "l2-example", "l2-take",
+            "l3", "l3-ask", "l3-rational", "l3-eliminate", "l3-example", "l3-take",
+            "l4", "l4-backward", "l4-final", "l4-threat", "l4-example", "l4-take",
+            "l5", "l5-loop", "l5-limits", "l5-example", "l5-take",
+            "terms", "terms-2", "research", "research-2", "tool", "practice", "practice-answer", "mistakes", "field", "carry"],
+  "sections": {
+    "intro": {"description": "Welcome: why your move is only half of the move, and what you will be able to do.", "start": "cover"},
+    "lesson1": {"description": "Lesson 3.1: communication is a chain of responses, and best responses depend on the other player.", "start": "l1"},
+    "lesson2": {"description": "Lesson 3.2: the gap between what you intend and what your move makes attractive.", "start": "l2"},
+    "lesson3": {"description": "Lesson 3.3: predicting responses from their payoffs, not yours.", "start": "l3"},
+    "lesson4": {"description": "Lesson 3.4: backward induction, the final conversation and credible threats.", "start": "l4"},
+    "lesson5": {"description": "Lesson 3.5: feedback loops, the escalation trap and the limits of prediction.", "start": "l5"},
+    "practice": {"description": "Key terms, research, the Response Map, practice, this week's assignment and the question to carry.", "start": "terms"}
+  },
+  "faces": {
+    "inter": {"family": "Inter", "href": "https://fonts.googleapis.com/css2?family=Inter:wght@400..800&display=swap"},
+    "source-serif-4": {"family": "Source Serif 4", "href": "https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@400..700&display=swap"}
+  },
+  "designSystems": []
+}

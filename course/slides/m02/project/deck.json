@@ -1,0 +1,27 @@
+{
+  "v": 4,
+  "createdOnFiles": {"v": 1, "at": "2026-10-07T12:00:00Z"},
+  "lists": "css",
+  "title": "Internomics — Module 2: See the Payoffs",
+  "order": ["cover", "why", "objectives",
+            "l1", "l1-def", "l1-currencies", "l1-example", "l1-take",
+            "l2", "l2-kinds", "l2-pie", "l2-real", "l2-example", "l2-take",
+            "l3", "l3-hidden", "l3-empathy", "l3-structure", "l3-example", "l3-take",
+            "l4", "l4-avoid", "l4-loss", "l4-revealed", "l4-example", "l4-take",
+            "l5", "l5-map", "l5-use", "l5-example", "l5-take",
+            "terms", "research", "research-2", "tool", "practice", "practice-answer", "mistakes", "field", "carry"],
+  "sections": {
+    "intro": {"description": "Why we misread people when we assume they want what we want, and what you will be able to do.", "start": "cover"},
+    "lesson1": {"description": "Lesson 2.1: what a payoff is, and why money is only one currency.", "start": "l1"},
+    "lesson2": {"description": "Lesson 2.2: opposed, aligned and mixed interests.", "start": "l2"},
+    "lesson3": {"description": "Lesson 2.3: hidden payoffs, and why rational doesn't mean selfish.", "start": "l3"},
+    "lesson4": {"description": "Lesson 2.4: gains, losses, perception and revealed preferences.", "start": "l4"},
+    "lesson5": {"description": "Lesson 2.5: the Payoff Map and how it changes communication.", "start": "l5"},
+    "practice": {"description": "Key terms, research, the Payoff Map, practice, this week's assignment and the question to carry.", "start": "terms"}
+  },
+  "faces": {
+    "inter": {"family": "Inter", "href": "https://fonts.googleapis.com/css2?family=Inter:wght@400..800&display=swap"},
+    "source-serif-4": {"family": "Source Serif 4", "href": "https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@400..700&display=swap"}
+  },
+  "designSystems": []
+}

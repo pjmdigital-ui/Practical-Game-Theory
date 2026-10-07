@@ -1,0 +1,27 @@
+{
+  "v": 4,
+  "createdOnFiles": {"v": 1, "at": "2026-10-07T12:00:00Z"},
+  "lists": "css",
+  "title": "Internomics — Module 1: See the Game",
+  "order": ["cover", "why", "objectives",
+            "l1", "l1-def", "l1-premise", "l1-example", "l1-take",
+            "l2", "l2-players", "l2-mixed", "l2-want-can", "l2-example", "l2-take",
+            "l3", "l3-constraints", "l3-walkaway", "l3-example", "l3-take",
+            "l4", "l4-timing", "l4-moving", "l4-surface", "l4-example", "l4-take",
+            "l5", "l5-shift", "l5-map", "l5-example", "l5-take",
+            "terms", "terms-2", "research", "research-2", "tool", "practice", "practice-answer", "mistakes", "field", "carry"],
+  "sections": {
+    "intro": {"description": "Welcome: why the first mental shift is to start with the situation, not the words.", "start": "cover"},
+    "lesson1": {"description": "Lesson 1.1: from \"What should I say?\" to \"What's really going on?\"", "start": "l1"},
+    "lesson2": {"description": "Lesson 1.2: players, what they want, and what they can actually do.", "start": "l2"},
+    "lesson3": {"description": "Lesson 1.3: constraints, alternatives, and who needs whom.", "start": "l3"},
+    "lesson4": {"description": "Lesson 1.4: timing, games that move, and the game behind the conversation.", "start": "l4"},
+    "lesson5": {"description": "Lesson 1.5: person problem or game problem, and building the Game Map.", "start": "l5"},
+    "practice": {"description": "Key terms, research, the Game Map, practice, this week's assignment and the question to carry.", "start": "terms"}
+  },
+  "faces": {
+    "inter": {"family": "Inter", "href": "https://fonts.googleapis.com/css2?family=Inter:wght@400..800&display=swap"},
+    "source-serif-4": {"family": "Source Serif 4", "href": "https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@400..700&display=swap"}
+  },
+  "designSystems": []
+}

@@ -1,0 +1,27 @@
+{
+  "v": 4,
+  "createdOnFiles": {"v": 1, "at": "2026-10-07T12:00:00Z"},
+  "lists": "css",
+  "title": "Internomics — Module 10: Diagnose the Coordination Problem",
+  "order": ["cover", "why", "objectives",
+            "l1", "l1-def", "l1-mixed", "l1-example", "l1-take",
+            "l2", "l2-focal", "l2-conventions", "l2-example", "l2-take",
+            "l3", "l3-uncertain", "l3-alone", "l3-jobs", "l3-example", "l3-take",
+            "l4", "l4-common", "l4-expect", "l4-handoff", "l4-example", "l4-take",
+            "l5", "l5-test", "l5-three", "l5-example", "l5-take",
+            "terms", "terms-2", "research", "research-2", "tool", "practice", "practice-answer", "mistakes", "field", "carry"],
+  "sections": {
+    "intro": {"description": "Why some bad outcomes come from failed coordination, not conflict, and what you will be able to do.", "start": "cover"},
+    "lesson1": {"description": "Lesson 10.1: not every disagreement is a conflict of interests.", "start": "l1"},
+    "lesson2": {"description": "Lesson 10.2: focal points and conventions that help a group pick one workable option.", "start": "l2"},
+    "lesson3": {"description": "Lesson 10.3: strategic uncertainty, and why people won't cooperate alone.", "start": "l3"},
+    "lesson4": {"description": "Lesson 10.4: common knowledge, clear owners and the handoffs where coordination breaks.", "start": "l4"},
+    "lesson5": {"description": "Lesson 10.5: the simple test that separates coordination from a social dilemma.", "start": "l5"},
+    "practice": {"description": "Key terms, research, the Coordination Diagnostic, practice, this week's assignment and the question to carry.", "start": "terms"}
+  },
+  "faces": {
+    "inter": {"family": "Inter", "href": "https://fonts.googleapis.com/css2?family=Inter:wght@400..800&display=swap"},
+    "source-serif-4": {"family": "Source Serif 4", "href": "https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@400..700&display=swap"}
+  },
+  "designSystems": []
+}

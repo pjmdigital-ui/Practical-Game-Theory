@@ -15,6 +15,7 @@ This repository (still named `Practical-Game-Theory`, the working title) is the 
 | Edit the book's text (canonical) | [`book/manuscript.md`](book/manuscript.md) |
 | See the course plan | [`course/README.md`](course/README.md) |
 | Teach or build the course | [`course/Internomics-Course-Guide.pdf`](course/Internomics-Course-Guide.pdf) |
+| Record the course videos | [`course/slides/README.md`](course/slides/README.md) (13 slide decks with speaker notes) |
 | Give learners their handout | [`course/Internomics-Student-Workbook.pdf`](course/Internomics-Student-Workbook.pdf) |
 | Look up research behind a chapter | [`source/Game_Theory_Dossier.md`](source/Game_Theory_Dossier.md) |
 

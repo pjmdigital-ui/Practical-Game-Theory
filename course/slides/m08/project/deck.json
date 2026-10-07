@@ -1,0 +1,27 @@
+{
+  "v": 4,
+  "createdOnFiles": {"v": 1, "at": "2026-10-07T12:00:00Z"},
+  "lists": "css",
+  "title": "Internomics — Module 8: Commitment Changes the Game",
+  "order": ["cover", "why", "objectives",
+            "l1", "l1-final", "l1-paradox", "l1-example", "l1-take",
+            "l2", "l2-three", "l2-signal", "l2-example", "l2-take",
+            "l3", "l3-severity", "l3-both", "l3-example", "l3-take",
+            "l4", "l4-cant", "l4-binds", "l4-example", "l4-take",
+            "l5", "l5-lockin", "l5-uncertainty", "l5-notthis", "l5-move", "l5-example", "l5-take",
+            "terms", "terms-2", "research", "research-2", "tool", "practice", "practice-answer", "mistakes", "field", "carry"],
+  "sections": {
+    "intro": {"description": "Welcome: why commitment changes the game and what you will be able to do.", "start": "cover"},
+    "lesson1": {"description": "Lesson 8.1: why fewer options can sometimes make you stronger.", "start": "l1"},
+    "lesson2": {"description": "Lesson 8.2: the difference between an intention, a promise and a strategic commitment.", "start": "l2"},
+    "lesson3": {"description": "Lesson 8.3: credible threats, promises and boundaries.", "start": "l3"},
+    "lesson4": {"description": "Lesson 8.4: \"I can't\" versus \"I don't want to,\" and what actually binds people.", "start": "l4"},
+    "lesson5": {"description": "Lesson 8.5: when a credible commitment becomes a trap.", "start": "l5"},
+    "practice": {"description": "Key terms, research, the Commitment Test, practice, this week's assignment and the question to carry.", "start": "terms"}
+  },
+  "faces": {
+    "inter": {"family": "Inter", "href": "https://fonts.googleapis.com/css2?family=Inter:wght@400..800&display=swap"},
+    "source-serif-4": {"family": "Source Serif 4", "href": "https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@400..700&display=swap"}
+  },
+  "designSystems": []
+}

@@ -1,0 +1,27 @@
+{
+  "v": 4,
+  "createdOnFiles": {"v": 1, "at": "2026-10-07T12:00:00Z"},
+  "lists": "css",
+  "title": "Internomics — Module 7: Separate Words From Credibility",
+  "order": ["cover", "why", "objectives",
+            "l1", "l1-persuasion", "l1-sender", "l1-paranoia", "l1-example", "l1-take",
+            "l2", "l2-cheap", "l2-incentives", "l2-example", "l2-take",
+            "l3", "l3-three", "l3-expertise", "l3-confidence", "l3-example", "l3-take",
+            "l4", "l4-anyway", "l4-cost", "l4-behavior", "l4-example", "l4-take",
+            "l5", "l5-problem", "l5-verify", "l5-example", "l5-take",
+            "terms", "research", "research-2", "tool", "practice", "practice-answer", "mistakes", "field", "carry"],
+  "sections": {
+    "intro": {"description": "Welcome: why words and credibility are different things, and what you will be able to do.", "start": "cover"},
+    "lesson1": {"description": "Lesson 7.1: credibility lives in the game around the sentence.", "start": "l1"},
+    "lesson2": {"description": "Lesson 7.2: cheap talk can be costless and still informative.", "start": "l2"},
+    "lesson3": {"description": "Lesson 7.3: honesty, knowledge and incentive alignment are separate questions.", "start": "l3"},
+    "lesson4": {"description": "Lesson 7.4: signals, evidence, and the \"Would they say this anyway?\" test.", "start": "l4"},
+    "lesson5": {"description": "Lesson 7.5: the speaker's side, making truthful claims easier to verify.", "start": "l5"},
+    "practice": {"description": "Key terms, research, the Credibility Test, practice, mistakes, this week's assignment and the question to carry.", "start": "terms"}
+  },
+  "faces": {
+    "inter": {"family": "Inter", "href": "https://fonts.googleapis.com/css2?family=Inter:wght@400..800&display=swap"},
+    "source-serif-4": {"family": "Source Serif 4", "href": "https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@400..700&display=swap"}
+  },
+  "designSystems": []
+}

@@ -1,0 +1,27 @@
+{
+  "v": 4,
+  "createdOnFiles": {"v": 1, "at": "2026-10-07T12:00:00Z"},
+  "lists": "css",
+  "title": "Internomics — Module 6: Map Information & Beliefs",
+  "order": ["cover", "why", "objectives",
+            "l1", "l1-truth", "l1-precise", "l1-example", "l1-take",
+            "l2", "l2-asym", "l2-ask", "l2-type", "l2-example", "l2-take",
+            "l3", "l3-signal", "l3-costly", "l3-cheap", "l3-example", "l3-take",
+            "l4", "l4-higher", "l4-common", "l4-example", "l4-take",
+            "l5", "l5-uncertain", "l5-hypothesis", "l5-example", "l5-take",
+            "terms", "terms-2", "research", "research-2", "tool", "practice", "practice-answer", "mistakes", "field", "carry"],
+  "sections": {
+    "intro": {"description": "Why information changes the game, and what you will be able to do by the end of this module.", "start": "cover"},
+    "lesson1": {"description": "Lesson 6.1: information is not the same as truth, and people act on the game as they perceive it.", "start": "l1"},
+    "lesson2": {"description": "Lesson 6.2: information asymmetry, the problem with just asking, and private types.", "start": "l2"},
+    "lesson3": {"description": "Lesson 6.3: signals, costly signals and cheap talk.", "start": "l3"},
+    "lesson4": {"description": "Lesson 6.4: beliefs about beliefs, self-fulfilling patterns and common knowledge.", "start": "l4"},
+    "lesson5": {"description": "Lesson 6.5: treating your interpretations as hypotheses, not facts.", "start": "l5"},
+    "practice": {"description": "Key terms, research, the Information Map, practice, common mistakes, this week's assignment and the question to carry.", "start": "terms"}
+  },
+  "faces": {
+    "inter": {"family": "Inter", "href": "https://fonts.googleapis.com/css2?family=Inter:wght@400..800&display=swap"},
+    "source-serif-4": {"family": "Source Serif 4", "href": "https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@400..700&display=swap"}
+  },
+  "designSystems": []
+}

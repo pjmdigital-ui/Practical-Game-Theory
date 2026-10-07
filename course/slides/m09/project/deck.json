@@ -1,0 +1,27 @@
+{
+  "v": 4,
+  "createdOnFiles": {"v": 1, "at": "2026-10-07T12:00:00Z"},
+  "lists": "css",
+  "title": "Internomics — Module 9: The Shadow of the Future",
+  "order": ["cover", "why", "objectives",
+            "l1", "l1-shift", "l1-repeat", "l1-trait", "l1-example", "l1-take",
+            "l2", "l2-axelrod", "l2-reputation", "l2-example", "l2-take",
+            "l3", "l3-learning", "l3-round", "l3-example", "l3-take",
+            "l4", "l4-nice", "l4-noise", "l4-repair", "l4-example", "l4-take",
+            "l5", "l5-limits", "l5-trap", "l5-example", "l5-take",
+            "terms", "terms-2", "research", "research-2", "tool", "practice", "practice-answer", "mistakes", "field", "carry"],
+  "sections": {
+    "intro": {"description": "Welcome: why a next time changes the game, and what you will be able to do.", "start": "cover"},
+    "lesson1": {"description": "Lesson 9.1: how the expectation of tomorrow changes the value of today's move.", "start": "l1"},
+    "lesson2": {"description": "Lesson 9.2: reciprocity, reputation as a prediction, and trust as a lower cost of interaction.", "start": "l2"},
+    "lesson3": {"description": "Lesson 9.3: what your responses are teaching people to expect next time.", "start": "l3"},
+    "lesson4": {"description": "Lesson 9.4: boundaries that protect cooperation, noise, and the strategic value of repair.", "start": "l4"},
+    "lesson5": {"description": "Lesson 9.5: the limits of the long game, and when exit is the long-term strategy.", "start": "l5"},
+    "practice": {"description": "Key terms, research, the Repeated-Game Audit, practice, common mistakes, this week's assignment and the question to carry.", "start": "terms"}
+  },
+  "faces": {
+    "inter": {"family": "Inter", "href": "https://fonts.googleapis.com/css2?family=Inter:wght@400..800&display=swap"},
+    "source-serif-4": {"family": "Source Serif 4", "href": "https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@400..700&display=swap"}
+  },
+  "designSystems": []
+}

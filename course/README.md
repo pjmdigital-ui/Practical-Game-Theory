@@ -94,6 +94,7 @@ The same curriculum supports three formats:
 | `modules/` | The 13 modules (source of truth for course content) |
 | `_module-template.md` | The structure every module follows |
 | `Internomics-Course-Guide.pdf` | The full course in one document: all lessons, answer keys, rubrics. For the instructor or course builder. |
+| `slides/` | Recording slide decks for all 13 modules, with speaker notes (see `slides/README.md` for the live links) |
 | `Internomics-Student-Workbook.pdf` | Learner handout: worksheets, exercises, quizzes and field assignments, without answers |
 
 Rebuild the PDFs after editing any module:
