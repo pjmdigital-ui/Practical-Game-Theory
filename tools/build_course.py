@@ -2,8 +2,8 @@
 """Build the course PDFs from course/modules/*.md.
 
 Outputs:
-  course/Practical-Game-Theory-Course-Guide.pdf      every module, with answers
-  course/Practical-Game-Theory-Student-Workbook.pdf  worksheets, exercises, quizzes,
+  course/Internomics-Course-Guide.pdf      every module, with answers
+  course/Internomics-Student-Workbook.pdf  worksheets, exercises, quizzes,
                                                      field assignments, no answers
 Requires: pandoc, weasyprint.   Usage: python3 tools/build_course.py
 """
@@ -77,7 +77,7 @@ def module_md(path, workbook):
 CSS = """
 @page { size: letter; margin: 0.8in 0.85in 0.9in;
   @top-right { content: string(mod); font: 7.5pt 'Inter', sans-serif; letter-spacing: 1.2pt; color: #888; text-transform: uppercase; }
-  @top-left { content: "PRACTICAL GAME THEORY · __KIND__"; font: 7.5pt 'Inter', sans-serif; letter-spacing: 1.2pt; color: #888; }
+  @top-left { content: "INTERNOMICS · __KIND__"; font: 7.5pt 'Inter', sans-serif; letter-spacing: 1.2pt; color: #888; }
   @bottom-center { content: counter(page); font: 9pt 'Inter', sans-serif; color: #666; } }
 @page cover { margin: 0; @top-left { content: none; } @top-right { content: none; } @bottom-center { content: none; } }
 @page front { @top-left { content: none; } @top-right { content: none; } @bottom-center { content: none; } }
@@ -125,10 +125,10 @@ def build(kind, workbook, out):
         f'<li><a href="#{i}">{t}</a></li>'
         for i, t in re.findall(r'<h1 class="module" id="([^"]+)"[^>]*>(.*?)</h1>', body))
     sub = ("Instructor & Course-Builder Guide" if not workbook else "Student Workbook")
-    doc = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Practical Game Theory — {sub}</title>
+    doc = f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Internomics — {sub}</title>
 <style>{CSS.replace('__KIND__', html.escape(kind))}</style></head><body>
-<div class="cover"><div class="k">The Course</div><div class="t">Practical<br>Game Theory</div>
-<div class="s">See the Game Behind the Conversation</div><div class="s" style="margin-top:0.5in">{sub}</div>
+<div class="cover"><div class="k">The Course</div><div class="t">Internomics</div>
+<div class="s">How to See the Game Behind Every Interaction</div><div class="s" style="margin-top:0.5in">{sub}</div>
 <div class="a">Paul Mascetta</div></div>
 <div class="toc"><h2>Contents</h2><ul>{toc}</ul></div>
 {body}</body></html>"""
@@ -136,5 +136,5 @@ def build(kind, workbook, out):
     print("wrote", out)
 
 
-build("COURSE GUIDE", False, COURSE / "Practical-Game-Theory-Course-Guide.pdf")
-build("WORKBOOK", True, COURSE / "Practical-Game-Theory-Student-Workbook.pdf")
+build("COURSE GUIDE", False, COURSE / "Internomics-Course-Guide.pdf")
+build("WORKBOOK", True, COURSE / "Internomics-Student-Workbook.pdf")

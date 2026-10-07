@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Fill in the Word table of contents (page numbers) using LibreOffice headless.
-Usage: python3 tools/update_docx_toc.py book/Practical-Game-Theory.docx"""
+Usage: python3 tools/update_docx_toc.py book/Internomics.docx"""
 import os, subprocess, sys, tempfile, textwrap
 path = os.path.abspath(sys.argv[1])
 macro = textwrap.dedent(f"""

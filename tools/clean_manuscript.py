@@ -135,14 +135,24 @@ lines = out
 # collapse runs of blank lines
 text = re.sub(r"\n{3,}", "\n\n", "\n".join(lines)).strip() + "\n"
 
+DEFINITION = """::: {.definition}
+**in·ter·nom·ics** *(noun)*
+
+The study of what happens between people.
+
+Internomics applies the principles of game theory to communication and human interaction—not to teach you what to say, but to teach you how to understand the game you're already playing.
+:::
+
+"""
+
 front = """---
-title: "Practical Game Theory"
-subtitle: "See the Game Behind the Conversation"
+title: "Internomics"
+subtitle: "How to See the Game Behind Every Interaction"
 author: "Paul Mascetta"
 lang: en-US
 ---
 
 """
-text = front + "\n".join(intro).strip() + "\n\n" + text + "\n" + "\n".join(f"[^{n}]: {lab}, <{url}>" for n, (lab, url) in enumerate(notes, 1)) + "\n"
+text = front + DEFINITION + "\n".join(intro).strip() + "\n\n" + text + "\n" + "\n".join(f"[^{n}]: {lab}, <{url}>" for n, (lab, url) in enumerate(notes, 1)) + "\n"
 (outdir / "manuscript.md").write_text(text, encoding="utf-8")
 print(f"chapters cleaned; {len(notes)} footnotes; archived {len(archived)} lines")

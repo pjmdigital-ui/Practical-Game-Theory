@@ -1,7 +1,9 @@
-# Practical Game Theory — The Course
+# Internomics — The Course
 
-**See the Game Behind the Conversation**
-A 13-week course built from the book *Practical Game Theory* by Paul Mascetta.
+**How to See the Game Behind Every Interaction**
+A 13-week course built from the book *Internomics* by Paul Mascetta.
+
+> **Internomics** is the study of what happens between people. It applies the principles of game theory to communication and human interaction—not to teach you what to say, but to teach you how to understand the game you're already playing.
 
 ## The promise
 
@@ -91,8 +93,8 @@ The same curriculum supports three formats:
 |---|---|
 | `modules/` | The 13 modules (source of truth for course content) |
 | `_module-template.md` | The structure every module follows |
-| `Practical-Game-Theory-Course-Guide.pdf` | The full course in one document: all lessons, answer keys, rubrics. For the instructor or course builder. |
-| `Practical-Game-Theory-Student-Workbook.pdf` | Learner handout: worksheets, exercises, quizzes and field assignments, without answers |
+| `Internomics-Course-Guide.pdf` | The full course in one document: all lessons, answer keys, rubrics. For the instructor or course builder. |
+| `Internomics-Student-Workbook.pdf` | Learner handout: worksheets, exercises, quizzes and field assignments, without answers |
 
 Rebuild the PDFs after editing any module:
 

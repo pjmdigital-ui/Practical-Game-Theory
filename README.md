@@ -1,19 +1,21 @@
-# Practical Game Theory
+# Internomics
 
-**See the Game Behind the Conversation** · Paul Mascetta
+**How to See the Game Behind Every Interaction** · Paul Mascetta
 
-This repository is the source of truth for the Practical Game Theory project: the book, the course built from it, and the research behind both. The planned ecosystem is **Book → Course → AI Practice → Community**.
+> **Internomics** is the study of what happens between people. It applies the principles of game theory to communication and human interaction—not to teach you what to say, but to teach you how to understand the game you're already playing.
+
+This repository (still named `Practical-Game-Theory`, the working title) is the source of truth for the Internomics project: the book, the course built from it, and the research behind both. The planned ecosystem is **Book → Course → AI Practice → Community**.
 
 ## Start here
 
 | I want to… | Open |
 |---|---|
-| Read the finished book | [`book/Practical-Game-Theory.pdf`](book/Practical-Game-Theory.pdf) (print-ready 6×9) |
-| Edit the book in Word | [`book/Practical-Game-Theory.docx`](book/Practical-Game-Theory.docx) |
+| Read the finished book | [`book/Internomics.pdf`](book/Internomics.pdf) (print-ready 6×9) |
+| Edit the book in Word | [`book/Internomics.docx`](book/Internomics.docx) |
 | Edit the book's text (canonical) | [`book/manuscript.md`](book/manuscript.md) |
 | See the course plan | [`course/README.md`](course/README.md) |
-| Teach or build the course | [`course/Practical-Game-Theory-Course-Guide.pdf`](course/Practical-Game-Theory-Course-Guide.pdf) |
-| Give learners their handout | [`course/Practical-Game-Theory-Student-Workbook.pdf`](course/Practical-Game-Theory-Student-Workbook.pdf) |
+| Teach or build the course | [`course/Internomics-Course-Guide.pdf`](course/Internomics-Course-Guide.pdf) |
+| Give learners their handout | [`course/Internomics-Student-Workbook.pdf`](course/Internomics-Student-Workbook.pdf) |
 | Look up research behind a chapter | [`source/Game_Theory_Dossier.md`](source/Game_Theory_Dossier.md) |
 
 ## Status
@@ -31,8 +33,8 @@ This repository is the source of truth for the Practical Game Theory project: th
 ```
 book/
   manuscript.md                 canonical book text (edit this)
-  Practical-Game-Theory.pdf     print-ready book (generated)
-  Practical-Game-Theory.docx    Word edition (generated)
+  Internomics.pdf               print-ready book (generated)
+  Internomics.docx              Word edition (generated)
   archive/                      superseded drafts
 course/
   README.md                     course overview, outcomes, schedule, formats

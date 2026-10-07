@@ -1,9 +1,17 @@
 ---
-title: "Practical Game Theory"
-subtitle: "See the Game Behind the Conversation"
+title: "Internomics"
+subtitle: "How to See the Game Behind Every Interaction"
 author: "Paul Mascetta"
 lang: en-US
 ---
+
+::: {.definition}
+**in·ter·nom·ics** *(noun)*
+
+The study of what happens between people.
+
+Internomics applies the principles of game theory to communication and human interaction—not to teach you what to say, but to teach you how to understand the game you're already playing.
+:::
 
 # Introduction {.chapter}
 

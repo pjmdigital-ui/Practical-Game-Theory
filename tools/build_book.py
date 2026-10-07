@@ -3,8 +3,8 @@
 
 Requires: pandoc, weasyprint (pip install weasyprint)
 Usage:    python3 tools/build_book.py
-Outputs:  book/Practical-Game-Theory.pdf
-          book/Practical-Game-Theory.docx
+Outputs:  book/Internomics.pdf
+          book/Internomics.docx
 """
 import html
 import re
@@ -16,8 +16,8 @@ from weasyprint import HTML
 ROOT = Path(__file__).resolve().parent.parent
 BOOK = ROOT / "book"
 MD = BOOK / "manuscript.md"
-TITLE = "Practical Game Theory"
-SUBTITLE = "See the Game Behind the Conversation"
+TITLE = "Internomics"
+SUBTITLE = "How to See the Game Behind Every Interaction"
 AUTHOR = "Paul Mascetta"
 YEAR = "2026"
 
@@ -70,7 +70,7 @@ CSS = """
   @bottom-center { content: counter(page); font: 9pt 'Inter', sans-serif; color: #555; }
 }
 @page :left  { margin-left: 0.7in; margin-right: 0.8in;
-  @top-left  { content: "PRACTICAL GAME THEORY"; font: 7.5pt 'Inter', sans-serif; letter-spacing: 1.5pt; color: #777; } }
+  @top-left  { content: "INTERNOMICS"; font: 7.5pt 'Inter', sans-serif; letter-spacing: 1.5pt; color: #777; } }
 @page :right {
   @top-right { content: string(chap); font: 7.5pt 'Inter', sans-serif; letter-spacing: 1.5pt; color: #777; text-transform: uppercase; } }
 @page front { @top-left { content: none; } @top-right { content: none; } @bottom-center { content: none; } }
@@ -88,13 +88,18 @@ a { color: inherit; text-decoration: none; }
 
 .front { page: front; break-after: right; }
 .front-num { page: front-num; }
-.title-page { text-align: center; padding-top: 1.6in; }
-.title-page .t { font: 800 30pt/1.1 'Inter Display', 'Inter', sans-serif; letter-spacing: -0.5pt; }
+.title-page { text-align: center; padding-top: 1.6in; hyphens: none; }
+.title-page .t { font: 800 36pt/1.1 'Inter Display', 'Inter', sans-serif; letter-spacing: -0.5pt; }
 .title-page .rule { width: 1in; border-top: 2pt solid #1b1b1b; margin: 0.3in auto; }
-.title-page .s { font-style: italic; font-size: 14pt; color: #444; }
+.title-page .s { font-style: italic; font-size: 13pt; line-height: 1.35; color: #444; }
 .title-page .a { margin-top: 2.4in; font: 600 12pt 'Inter', sans-serif; letter-spacing: 2pt; text-transform: uppercase; }
 .copyright { padding-top: 4.4in; font-size: 8pt; line-height: 1.55; color: #333; }
 .copyright p { text-align: left; margin-bottom: 0.7em; }
+.definition { page: front; break-before: right; break-after: page; padding: 2.3in 0.3in 0; }
+.definition p { text-align: left; }
+.definition p:first-child { font-size: 15pt; margin-bottom: 0.25in; }
+.definition p:first-child strong { font: 800 18pt 'Inter Display', 'Inter', sans-serif; letter-spacing: 0.5pt; }
+.definition p:nth-child(2) { font-size: 12.5pt; font-style: italic; margin-bottom: 0.2in; }
 
 .toc h2 { font: 700 16pt 'Inter', sans-serif; margin: 0.4in 0 0.3in; text-align: left; }
 .toc ul { list-style: none; padding: 0; margin: 0; }
@@ -151,19 +156,19 @@ doc = f"""<!doctype html><html lang="en"><head><meta charset="utf-8">
 
 (BOOK / "build").mkdir(exist_ok=True)
 (BOOK / "build" / "book.html").write_text(doc, encoding="utf-8")
-pdf = BOOK / "Practical-Game-Theory.pdf"
+pdf = BOOK / "Internomics.pdf"
 HTML(string=doc, base_url=str(BOOK)).write_pdf(pdf)
 print("wrote", pdf)
 
 # ------------------------------------------------------------------ DOCX
 ref = ROOT / "tools" / "reference.docx"
-args = [str(MD), "-o", str(BOOK / "Practical-Game-Theory.docx"), "--toc", "--toc-depth=1",
+args = [str(MD), "-o", str(BOOK / "Internomics.docx"), "--toc", "--toc-depth=1",
         "-M", "toc-title=Contents"]
 if ref.exists():
     args += ["--reference-doc", str(ref)]
 pandoc(*args)
-print("wrote", BOOK / "Practical-Game-Theory.docx")
+print("wrote", BOOK / "Internomics.docx")
 
 # Fill in the Word table of contents so it shows page numbers on first open.
 subprocess.run(["python3", str(ROOT / "tools" / "update_docx_toc.py"),
-                str(BOOK / "Practical-Game-Theory.docx")], check=True)
+                str(BOOK / "Internomics.docx")], check=True)

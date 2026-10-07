@@ -12,7 +12,7 @@
 
 Most communication training starts with words: what to say, how to phrase it, which questions to ask, how to handle the objection. Those things matter. But by the time you're choosing words, you've already made a series of quieter decisions about what is happening, what the other person wants, what they know, and how they're likely to respond. If those judgments are wrong, excellent communication simply helps you execute the wrong strategy more effectively.
 
-This course teaches the layer underneath the words. Game theory is the formal study of strategic interaction—situations where the outcome of one person's choice depends partly on the choices of others. You won't do any math. Instead, you'll learn eleven mental models that change the questions you ask before you speak.
+This course teaches the layer underneath the words. We call it **Internomics**: the study of what happens between people. Internomics applies the principles of game theory to communication and human interaction—not to teach you what to say, but to teach you how to understand the game you're already playing. Game theory is the formal study of strategic interaction—situations where the outcome of one person's choice depends partly on the choices of others. You won't do any math. Instead, you'll learn eleven mental models that change the questions you ask before you speak.
 
 The goal is not to make you a better manipulator. The goal is to help you see the game behind the conversation, so you have far more choices about how you play.
 
@@ -92,6 +92,7 @@ By the end of this module you will be able to:
 
 | Term | Plain-language meaning |
 |---|---|
+| Internomics | The study of what happens between people: game theory applied to communication and human interaction. |
 | Game | Any situation in which outcomes depend on the choices of more than one person. |
 | Player | Anyone whose choices affect the outcome, including people who aren't in the room. |
 | Strategic interaction | An interaction in which each person's best choice depends on what others do. |
