@@ -1,0 +1,25 @@
+{
+  "v": 4,
+  "createdOnFiles": {"v": 1, "at": "2026-10-07T12:00:00Z"},
+  "lists": "css",
+  "title": "Internomics — Module 0: Orientation",
+  "order": ["cover", "why", "objectives",
+            "l1", "l1-tactics", "l1-same", "l1-shift", "l1-example", "l1-take",
+            "l2", "l2-def", "l2-kinds", "l2-player", "l2-lens", "l2-example", "l2-take",
+            "l3", "l3-internomics", "l3-part1", "l3-part23", "l3-judgment", "l3-take",
+            "l4", "l4-ethics", "l4-approval", "l4-loop", "l4-example", "l4-take",
+            "terms", "research", "tool", "field", "carry"],
+  "sections": {
+    "intro": {"description": "Welcome: why this course exists and what you will be able to do.", "start": "cover"},
+    "lesson1": {"description": "Lesson 0.1: why most communication advice starts too late.", "start": "l1"},
+    "lesson2": {"description": "Lesson 0.2: what a game is, and what it is not.", "start": "l2"},
+    "lesson3": {"description": "Lesson 0.3: Internomics and the eleven mental models.", "start": "l3"},
+    "lesson4": {"description": "Lesson 0.4: the ethical standard and the learning loop.", "start": "l4"},
+    "practice": {"description": "Key terms, research, the tool, this week's assignment and the question to carry.", "start": "terms"}
+  },
+  "faces": {
+    "inter": {"family": "Inter", "href": "https://fonts.googleapis.com/css2?family=Inter:wght@400..800&display=swap"},
+    "source-serif-4": {"family": "Source Serif 4", "href": "https://fonts.googleapis.com/css2?family=Source+Serif+4:wght@400..700&display=swap"}
+  },
+  "designSystems": []
+}
