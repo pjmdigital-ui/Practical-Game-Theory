@@ -71,7 +71,8 @@ h3 + table { break-before: avoid; }
 ul, ol { margin: 0.2em 0 0.7em; padding-left: 1.4em; }
 li { margin-bottom: 0.25em; }
 ul.task-list, ul:has(> li > input) { list-style: none; padding-left: 0.3em; }
-input[type=checkbox] { width: 9pt; height: 9pt; margin-right: 6pt; vertical-align: -1pt; }
+.cb { display: inline-block; width: 8pt; height: 8pt; border: 0.8pt solid #555; margin-right: 6pt; vertical-align: -0.5pt; }
+ul.task-list li { margin-bottom: 0.35em; }
 .box { background: #fff8e8; border: 1pt solid #f2c86b; border-radius: 4pt; padding: 0.6em 0.9em; margin: 0.6em 0 1em; break-inside: avoid; }
 .box > :last-child { margin-bottom: 0; }
 .pagebreak { break-after: page; height: 0; }
@@ -93,6 +94,8 @@ def normalize(md):
 def blanks(h):
     # a paragraph that is only an answer line becomes a ruled writing line
     h = re.sub(rf"<p>{BLANK}</p>", '<span class="blank"></span>', h)
+    h = re.sub(r'<input type="checkbox"[^>]*/?>', '<span class="cb"></span>', h)
+    h = re.sub(r'<label>(.*?)</label>', r'\1', h, flags=re.S)
     return h.replace(BLANK, '<span class="blank" style="display:inline-block;width:2.6in;height:1.1em"></span>')
 
 
