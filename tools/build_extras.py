@@ -68,6 +68,9 @@ th { font-family: 'Inter', sans-serif; border-bottom: 1.2pt solid #14213d; backg
 tr { break-inside: avoid; }
 thead th:empty { display: none; }
 h3 + table { break-before: avoid; }
+table.kv { break-inside: avoid; table-layout: fixed; }
+table.kv td:first-child { width: 27%; font-family: 'Inter', sans-serif; font-size: 8.8pt; }
+table.kv thead { display: none; }
 ul, ol { margin: 0.2em 0 0.7em; padding-left: 1.4em; }
 li { margin-bottom: 0.25em; }
 ul.task-list, ul:has(> li > input) { list-style: none; padding-left: 0.3em; }
@@ -91,7 +94,20 @@ def normalize(md):
     return md
 
 
+def kv_tables(h):
+    """Two-column label/value tables: narrow label column, kept on one page."""
+    def fix(m):
+        t = m.group(0)
+        row = re.search(r"<tr[^>]*>(.*?)</tr>", t, re.S)
+        if row and len(re.findall(r"<t[hd][ >]", row.group(1))) == 2:
+            t = re.sub(r"<colgroup>.*?</colgroup>", "", t, flags=re.S)
+            return t.replace("<table", '<table class="kv"', 1)
+        return t
+    return re.sub(r"<table.*?</table>", fix, h, flags=re.S)
+
+
 def blanks(h):
+    h = kv_tables(h)
     # a paragraph that is only an answer line becomes a ruled writing line
     h = re.sub(rf"<p>{BLANK}</p>", '<span class="blank"></span>', h)
     h = re.sub(r'<input type="checkbox"[^>]*/?>', '<span class="cb"></span>', h)
