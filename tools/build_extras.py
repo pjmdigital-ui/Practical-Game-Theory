@@ -85,7 +85,7 @@ ul.task-list li { margin-bottom: 0.35em; }
 .blank { display: block; height: 1.75em; border-bottom: 0.6pt solid #9a9a9a; }
 .blank + .blank { margin-top: 0; }
 pre { white-space: pre-wrap; background: #f3f4f7; border: 0.75pt solid #d6d9e0; border-left: 3pt solid #14213d;
-  border-radius: 3pt; padding: 0.6em 0.8em; font: 8.6pt/1.45 'DejaVu Sans Mono', monospace; margin: 0.4em 0 0.8em; }
+  border-radius: 3pt; break-inside: avoid; padding: 0.6em 0.8em; font: 8.6pt/1.45 'DejaVu Sans Mono', monospace; margin: 0.4em 0 0.8em; }
 pre code { font: inherit; }
 h4 { font: 700 10.5pt/1.3 'Inter', sans-serif; color: #b45309; margin: 1em 0 0.3em; break-after: avoid; }
 """

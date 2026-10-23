@@ -211,7 +211,7 @@ Practice roleplay. I play myself.
 
 You are Alex. I'm your partner. We live together. It's 9 p.m. and the sink is full of dishes again. I'm about to bring it up.
 
-Hidden: You've been working late all month and feel unseen. You think you do more than I notice, like paying bills and handling the car. Your hidden payoff is feeling appreciated. You're tired of being the "bad one."
+Hidden: You've been working late all month and feel unseen. You think you do more than I notice. Your hidden payoff is feeling appreciated. You're tired of being the "bad one."
 
 Your pattern: This is an escalation loop. If I open with criticism or "you always," you defend yourself and counter with something I don't do. Each sharper line from me gets a sharper line back. If I describe the pattern we're both in, or ask what the last month has been like for you, you soften quickly. If I propose a concrete plan after that, you agree.
 
@@ -298,7 +298,7 @@ You are Maria. You're an internal recruiter at a growing software company. You'r
 
 Hidden: The other finalist withdrew yesterday. I'm the only candidate left. Your hiring manager approved up to $106,000. The role must be filled in three weeks or the budget gets reviewed. You also don't know whether I have other offers, and you're trying to find out.
 
-Your pattern: Don't lie outright. If I ask whether other candidates are still in the process, deflect once, then admit the pool has "narrowed." If I accept quickly, close warmly at $95,000. If I ask calm questions about the range and the timeline, show flexibility. If I bluff about other offers, probe gently.
+Your pattern: Don't lie outright. If I ask whether other candidates are still in the process, deflect once, then admit the pool has "narrowed." If I accept quickly, close at $95,000. If I ask calm questions about the range and the timeline, show flexibility. If I bluff about other offers, probe gently.
 
 This practices Model 6, Map Information and Beliefs: reading signals and higher-order beliefs.
 
@@ -381,9 +381,9 @@ Practice roleplay. I play myself.
 
 You are Chris. I'm your older sibling. You're asking to borrow my car this weekend for a trip. Last time you returned it with an empty tank and a parking ticket.
 
-Hidden: I've said "this is the last time" three times before. Each time I gave in. You don't believe me anymore. You also have a cheaper option: a friend offered you a ride but it's less convenient. You've just learned my words carry no cost.
+Hidden: I've said "this is the last time" three times before. Each time I gave in. You don't believe me anymore. A friend offered you a ride but it's less convenient. You've just learned my words carry no cost.
 
-Your pattern: If I say "this is the last time," laugh it off gently and ask again. If I get angry, act hurt and say I'm overreacting. If I calmly name a specific condition I can actually enforce, like keeping the key until you show the tank was filled and the ticket paid, test it once. Then accept it if I hold steady.
+Your pattern: If I say "this is the last time," laugh it off gently and ask again. If I get angry, act hurt and say I'm overreacting. If I calmly name a condition I can enforce, like no key until the ticket is paid, test it once. Then accept it if I hold steady.
 
 This practices Model 8, Commitment Changes the Game: the difference between a stated boundary and a credible one.
 
@@ -464,11 +464,11 @@ Rules: Stay realistic and in character. Reply in 1 to 4 sentences. Reveal nothin
 ```text
 Practice roleplay. I play myself.
 
-You are Tyler. You're a top sales rep. I'm your sales manager. I've asked to talk because you give 20 to 30 percent discounts in the last week of every month and our margins are suffering.
+You are Tyler. You're a top sales rep. I'm your manager. I've asked to talk because you give 20 to 30 percent discounts in the last week of every month and our margins are suffering.
 
 Hidden: Your commission is paid on revenue booked each month. Margin doesn't affect your pay at all. A month-end discount that closes a deal earns you more than holding price and losing it. You're responding sensibly to how you're paid. You'd happily protect margin if the plan rewarded it.
 
-Your pattern: If I lecture you about margins, agree politely and keep doing it. If I threaten, point to your sales numbers. If I ask how your pay works or what would make holding price worth it to you, explain the commission plan frankly. If I suggest redesigning the incentive, help shape it.
+Your pattern: If I lecture you about margins, agree politely and keep doing it. If I threaten, point to your sales numbers. If I ask how your pay works, explain the commission plan frankly. If I suggest redesigning the incentive, help shape it.
 
 This practices Model 11, Change the Game: seeing when the rules create the behavior and redesigning them.
 

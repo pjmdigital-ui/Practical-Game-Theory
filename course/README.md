@@ -110,8 +110,8 @@ Built with `python3 tools/build_extras.py` into [`extras/`](extras/):
 | File | What it is |
 |---|---|
 | `Internomics-Worksheet-Pack.pdf` | The 13 module tools on their own, ready to print (26 pages) |
-| `Internomics-Bonus-1-Cheat-Sheet.pdf` / `.docx` | The 11 models, quick selector, ethical standard and golden rules |
-| `Internomics-Bonus-2-Situation-Diagnosis-Matrix.pdf` / `.docx` | 25 common situations, the game behind each one and what to do |
-| `Internomics-Bonus-3-Prep-System.pdf` / `.docx` | 5-minute prep routine, prep worksheet, debrief and 30-day plan |
+| `Internomics-Bonus-1-Conversation-Teardowns.pdf` / `.docx` | 9 real-life conversations, line by line, with the game underneath and a better replay |
+| `Internomics-Bonus-2-AI-Practice-Partner-Pack.pdf` / `.docx` | A master prompt and 18 ready-to-paste scenarios that turn an AI chat assistant into a sparring partner with hidden motives |
+| `Internomics-Bonus-3-Field-Playbooks.pdf` / `.docx` | Three applied guides: for leaders, for sales and negotiation, for relationships and family |
 
 Bonus sources live in [`bonuses/`](bonuses/). The book itself is in [`../book/`](../book/).
