@@ -71,6 +71,9 @@ h3 + table { break-before: avoid; }
 table.kv { break-inside: avoid; table-layout: fixed; }
 table.kv td:first-child { width: 27%; font-family: 'Inter', sans-serif; font-size: 8.8pt; }
 table.kv thead { display: none; }
+table.who { table-layout: fixed; }
+table.who th:first-child, table.who td:first-child { width: 11%; font-family: 'Inter', sans-serif; font-size: 8.8pt; }
+table.who td:nth-child(2) { width: 42%; }
 ul, ol { margin: 0.2em 0 0.7em; padding-left: 1.4em; }
 li { margin-bottom: 0.25em; }
 ul.task-list, ul:has(> li > input) { list-style: none; padding-left: 0.3em; }
@@ -112,6 +115,11 @@ def kv_tables(h):
 
 def blanks(h):
     h = kv_tables(h)
+    # WeasyPrint ignores <ol start>; carry the number through the list-item counter
+    h = re.sub(r'<ol start="(\d+)"', lambda m: f'<ol style="counter-reset: list-item {int(m.group(1)) - 1}"', h)
+    # dialogue tables: narrow "Who" column
+    h = re.sub(r'<table>(\s*<colgroup>.*?</colgroup>)?(\s*<thead>\s*<tr[^>]*>\s*<th[^>]*>Who</th>)',
+               lambda m: '<table class="who">' + m.group(2), h, flags=re.S)
     # a paragraph that is only an answer line becomes a ruled writing line
     h = re.sub(rf"<p>{BLANK}</p>", '<span class="blank"></span>', h)
     h = re.sub(r'<input type="checkbox"[^>]*/?>', '<span class="cb"></span>', h)
