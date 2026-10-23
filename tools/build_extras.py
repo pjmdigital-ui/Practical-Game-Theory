@@ -24,11 +24,11 @@ BLANK = "______________________________"
 TITLE, SUBTITLE, AUTHOR = "Internomics", "How to See the Game Behind Every Interaction", "Paul Mascetta"
 
 BONUSES = [
-    ("bonus-1-cheat-sheet.md", "Internomics-Bonus-1-Cheat-Sheet", "Bonus 1", "The Internomics Cheat Sheet"),
-    ("bonus-2-diagnosis-matrix.md", "Internomics-Bonus-2-Situation-Diagnosis-Matrix", "Bonus 2",
-     "The Situation Diagnosis Matrix"),
-    ("bonus-3-prep-checklist.md", "Internomics-Bonus-3-Prep-System", "Bonus 3",
-     "The 5-Minute Pre-Conversation Prep System"),
+    ("bonus-1-conversation-teardowns.md", "Internomics-Bonus-1-Conversation-Teardowns", "Bonus 1",
+     "Conversation Teardowns"),
+    ("bonus-2-ai-practice-partner.md", "Internomics-Bonus-2-AI-Practice-Partner-Pack", "Bonus 2",
+     "The AI Practice Partner Pack"),
+    ("bonus-3-field-playbooks.md", "Internomics-Bonus-3-Field-Playbooks", "Bonus 3", "The Field Playbooks"),
 ]
 
 CSS = """
@@ -81,6 +81,10 @@ ul.task-list li { margin-bottom: 0.35em; }
 .pagebreak { break-after: page; height: 0; }
 .blank { display: block; height: 1.75em; border-bottom: 0.6pt solid #9a9a9a; }
 .blank + .blank { margin-top: 0; }
+pre { white-space: pre-wrap; background: #f3f4f7; border: 0.75pt solid #d6d9e0; border-left: 3pt solid #14213d;
+  border-radius: 3pt; padding: 0.6em 0.8em; font: 8.6pt/1.45 'DejaVu Sans Mono', monospace; margin: 0.4em 0 0.8em; }
+pre code { font: inherit; }
+h4 { font: 700 10.5pt/1.3 'Inter', sans-serif; color: #b45309; margin: 1em 0 0.3em; break-after: avoid; }
 """
 
 
