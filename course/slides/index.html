@@ -1,0 +1,175 @@
+<title>Internomics Course Decks</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a recording run-sheet. Summary strip, then the 13 decks grouped by the book's parts, one row per take. */
+:root {
+  --bg: #F6F4EE;
+  --surface: #FFFDF8;
+  --ink: #14213D;
+  --muted: #5B6577;
+  --line: #E2DED3;
+  --accent: #FCA311;
+  --accent-ink: #B45309;
+  --done: #2F7D5B;
+  --font-display: "Archivo", "Helvetica Neue", Arial, sans-serif;
+  --font-body: "Source Serif 4", Georgia, serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #101A30; --surface: #17233F; --ink: #EEF1F6; --muted: #9AA8C0;
+    --line: #26355A; --accent: #FCA311; --accent-ink: #FCB443; --done: #5FC29A;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #101A30; --surface: #17233F; --ink: #EEF1F6; --muted: #9AA8C0;
+  --line: #26355A; --accent: #FCA311; --accent-ink: #FCB443; --done: #5FC29A;
+  color-scheme: dark;
+}
+body {
+  background: var(--bg); color: var(--ink);
+  font-family: var(--font-body); font-size: 17px; line-height: 1.5;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 40px 64px;
+}
+.wrap { max-width: 920px; margin: 0 auto; display: flex; flex-direction: column; gap: 40px; }
+header { display: flex; flex-direction: column; gap: 14px; }
+.eyebrow { font: 700 13px/1 var(--font-display); letter-spacing: 0.16em; text-transform: uppercase; color: var(--accent-ink); }
+h1 { font: 800 clamp(34px, 6vw, 56px)/1.02 var(--font-display); letter-spacing: -0.02em; margin: 0; text-wrap: balance; }
+.lede { margin: 0; color: var(--muted); max-width: 62ch; }
+.stats { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); border-top: 2px solid var(--ink); border-bottom: 1px solid var(--line); }
+.stat { padding: 14px 16px 14px 0; display: flex; flex-direction: column; gap: 4px; }
+.stat b { font: 700 28px/1 var(--font-display); font-variant-numeric: tabular-nums; }
+.stat span { font: 500 12px/1.3 var(--font-mono); color: var(--muted); text-transform: uppercase; letter-spacing: 0.06em; }
+.part { display: flex; flex-direction: column; gap: 0; }
+.part h2 { margin: 0 0 6px; font: 700 13px/1.3 var(--font-display); letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); display: flex; gap: 10px; align-items: baseline; flex-wrap: wrap; }
+.part h2 em { font: italic 400 15px var(--font-body); letter-spacing: 0; text-transform: none; color: var(--ink); }
+.deck {
+  display: grid; grid-template-columns: 64px minmax(0, 1fr) auto; gap: 4px 18px; align-items: center;
+  padding: 18px 0; border-top: 1px solid var(--line);
+}
+.num { grid-row: span 2; font: 800 40px/1 var(--font-display); color: var(--accent); font-variant-numeric: tabular-nums; }
+.deck h3 { margin: 0; font: 700 21px/1.2 var(--font-display); text-wrap: balance; }
+.deck h3 a { color: inherit; text-decoration: none; }
+.deck h3 a:hover { text-decoration: underline; text-decoration-color: var(--accent); text-underline-offset: 4px; }
+.q { margin: 0; font-style: italic; color: var(--muted); grid-column: 2; }
+.side { grid-row: 1 / span 2; grid-column: 3; display: flex; flex-direction: column; align-items: flex-end; gap: 8px; }
+.meta { font: 400 13px/1 var(--font-mono); color: var(--muted); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.actions { display: flex; gap: 8px; align-items: center; }
+.open {
+  font: 700 14px/1 var(--font-display); color: var(--ink); background: var(--accent);
+  padding: 10px 14px; border-radius: 6px; text-decoration: none; white-space: nowrap;
+}
+.open:hover { filter: brightness(1.06); }
+.open:focus-visible, .rec:focus-visible { outline: 3px solid var(--ink); outline-offset: 2px; }
+.rec {
+  font: 500 13px/1 var(--font-mono); color: var(--muted); background: transparent;
+  border: 1px solid var(--line); border-radius: 6px; padding: 9px 10px; cursor: pointer; white-space: nowrap;
+}
+.rec[aria-pressed="true"] { color: var(--done); border-color: var(--done); }
+.deck.is-done .num { color: var(--done); }
+footer { font-size: 15px; color: var(--muted); border-top: 1px solid var(--line); padding-top: 18px; display: flex; flex-direction: column; gap: 6px; }
+footer p { margin: 0; max-width: 70ch; }
+@media (max-width: 640px) {
+  .stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .deck { grid-template-columns: 44px minmax(0, 1fr); }
+  .num { font-size: 30px; grid-row: span 3; align-self: start; }
+  .side { grid-row: auto; grid-column: 2; align-items: flex-start; flex-direction: column; }
+}
+@media (prefers-reduced-motion: no-preference) { .open, .rec { transition: filter .15s, border-color .15s, color .15s; } }
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Internomics · The Course</div>
+    <h1>All 13 recording decks</h1>
+    <p class="lede">Every module deck in one place. Open a deck, switch to presenter view and record from the speaker notes. Each one runs about 29 minutes at a normal speaking pace.</p>
+    <div class="stats" aria-label="Course totals">
+      <div class="stat"><b>13</b><span>Decks</span></div>
+      <div class="stat"><b>678</b><span>Slides</span></div>
+      <div class="stat"><b>6h 14m</b><span>Total recording</span></div>
+      <div class="stat"><b id="done-count">0 / 13</b><span>Marked recorded</span></div>
+    </div>
+  </header>
+
+  <main id="parts"></main>
+
+  <footer>
+    <p>"Mark recorded" is saved in this browser only, so you can track your progress as you film. It doesn't change the decks.</p>
+    <p>Recording time is estimated from the speaker notes at 150 words per minute.</p>
+  </footer>
+</div>
+
+<script>
+const PARTS = [
+  { name: "Start here", sub: "", ids: [0] },
+  { name: "Part I", sub: "See the Structure Beneath the Conversation", ids: [1, 2, 3, 4, 5] },
+  { name: "Part II", sub: "See What Isn't Obvious", ids: [6, 7, 8] },
+  { name: "Part III", sub: "Think Beyond the Moment", ids: [9, 10, 11] },
+  { name: "Finish", sub: "Integration and capstone", ids: [12] },
+];
+const DECKS = [
+  ["Orientation", "What if the way we normally think about communication starts too late?", 46, 28.8, "Pa5QJ8pskgxedCkM58ocX8"],
+  ["See the Game", "What's really going on here?", 50, 28.7, "RpU8ijKnmNqjimtwVuUjAW"],
+  ["See the Payoffs", "What payoff would make their behavior make sense?", 54, 28.6, "PiScQi2Y7q8RqJzQL1frBF"],
+  ["Think in Responses", "If I do this, what are they likely to do next?", 51, 28.7, "WnptLdqwrZQymqfmqQfoDt"],
+  ["Manage Predictability", "What does my predictability enable the other player to do?", 53, 28.7, "BE3ouMNZdPRaJrPNrX1go2"],
+  ["See the Equilibrium", "What equilibrium have we created?", 51, 28.7, "5Y9MkLrr3bSx3eSe7xp2EU"],
+  ["Map Information & Beliefs", "What do they know or believe that I don't?", 54, 28.7, "EiixXhJd22AqNE8SeFdkrA"],
+  ["Separate Words From Credibility", "What makes this message credible?", 54, 28.8, "9bD5mRiVfKX8To1khMYquN"],
+  ["Commitment Changes the Game", "What makes this commitment real?", 52, 28.8, "8ghJXhztENjnpJ19xGgtTz"],
+  ["The Shadow of the Future", "What changes because there is a next time?", 51, 28.9, "3DjDWX1biqqThbAvLYEoQW"],
+  ["Diagnose the Coordination Problem", "Are we actually in conflict or failing to coordinate?", 54, 28.9, "E4hTHvAntRdi4DDLJ26e9z"],
+  ["Change the Game", "Do I need a better move or a better game?", 53, 29.1, "KajTm68odscL3AmHy4i3qn"],
+  ["Strategic Judgment", "What did I learn from what just happened?", 55, 29.0, "44CziuegQjRE1wuwTkPnPp"],
+];
+const KEY = "internomics-recorded";
+let done = new Set();
+try { done = new Set(JSON.parse(localStorage.getItem(KEY) || "[]")); } catch (e) {}
+function save() { try { localStorage.setItem(KEY, JSON.stringify([...done])); } catch (e) {} }
+
+const esc = s => s.replace(/&/g, "&amp;").replace(/</g, "&lt;");
+const root = document.getElementById("parts");
+root.innerHTML = PARTS.map(p => `
+  <section class="part">
+    <h2>${p.name}${p.sub ? ` <em>${esc(p.sub)}</em>` : ""}</h2>
+    ${p.ids.map(i => {
+      const [t, q, n, m, id] = DECKS[i];
+      const url = "https://claude.ai/artifact/" + id;
+      return `<article class="deck" data-i="${i}">
+        <div class="num" aria-hidden="true">${String(i).padStart(2, "0")}</div>
+        <h3><a href="${url}" target="_blank" rel="noopener">Module ${i}: ${esc(t)}</a></h3>
+        <p class="q">${esc(q)}</p>
+        <div class="side">
+          <span class="meta">${n} slides · ${Math.round(m)} min</span>
+          <div class="actions">
+            <button class="rec" type="button" id="rec-${i}" aria-pressed="false">Mark recorded</button>
+            <a class="open" href="${url}" target="_blank" rel="noopener">Open deck</a>
+          </div>
+        </div>
+      </article>`;
+    }).join("")}
+  </section>`).join("");
+
+function render() {
+  document.querySelectorAll(".deck").forEach(el => {
+    const i = Number(el.dataset.i), on = done.has(i), b = el.querySelector(".rec");
+    el.classList.toggle("is-done", on);
+    b.setAttribute("aria-pressed", String(on));
+    b.textContent = on ? "Recorded ✓" : "Mark recorded";
+  });
+  document.getElementById("done-count").textContent = `${done.size} / 13`;
+}
+root.addEventListener("click", e => {
+  const b = e.target.closest(".rec"); if (!b) return;
+  const i = Number(b.closest(".deck").dataset.i);
+  done.has(i) ? done.delete(i) : done.add(i);
+  save(); render();
+});
+render();
+</script>
