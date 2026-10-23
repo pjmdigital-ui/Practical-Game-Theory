@@ -1,6 +1,6 @@
 # Internomics — Recording Slides
 
-One slide deck per course module (678 slides in total), built from the course guide. Every slide has **speaker notes** written as a talk track in Paul's voice. Open a deck, switch to presenter view, and read or riff from the notes while you record.
+One slide deck per course module (678 slides in total), built from the course guide. Every slide has **speaker notes** written as a talk track in Paul's voice, sized so each deck records in about 29 minutes (about 4,300 words at 150 words per minute). Open a deck, switch to presenter view, and read or riff from the notes while you record.
 
 | Module | Slides | Live deck | Source |
 |---|---|---|---|
